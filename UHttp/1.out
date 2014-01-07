@@ -1,0 +1,4936 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js ">
+<head>
+<meta charset="utf-8" />
+
+<title>
+
+如何健康有效地减肥？ - 知乎
+
+</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://questions/20874441">
+
+
+
+
+<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/20874441">
+<meta id="znonce" name="znonce" content="a55791e986664f1c9b03b7184f2b2775">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+
+
+
+
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/ba56196689b90989d189d228c9371e5e.m.css" type="text/css" media="screen" />
+
+
+
+
+
+
+
+<script src="http://static.zhihu.com/static/ver/8a78291c76c02b69868a113adaf9abc3.instant.min.js"></script>
+
+
+
+
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+
+</div>
+</div>
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-home-link">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-item-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+<span class="mobi-arrow"></span>
+</li>
+<li class="zu-top-nav-li ">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+<li class="top-nav-noti zu-top-nav-li ">
+<a class="zu-top-nav-link" href="javascript:void(0);" id="zh-top-nav-count-wrap"><span class="mobi-arrow"></span>消息</a>
+</li>
+
+
+
+<li class="zu-top-nav-li">
+<a id="js-top-nav-link-profile" class="zu-top-nav-link" href="/people/wang-xin-yu-30">
+我<span class="mobi-arrow"></span>
+</a>
+<span id="zh-top-nav-pm-count" class="zu-top-nav-pm-count zg-noti-number"
+style="visibility:hidden" data-count="0">
+
+</span>
+</li>
+
+</ul>
+<div class="zu-top-nav-live zg-r5px" id="zh-top-nav-live" style="display:none">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<ul class="zu-home-noti-inner"></ul>
+<a href="/notifications" id="zh-top-nav-btn-view-all" class="zg-btn-blue zg-right" style="font-size:12px">查看所有</a>
+<a href="javascript:;" class="zg-btn-white zg-r3px" id="zh-top-nav-btn-hide">知道了</a>
+</div>
+</div>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px" id="zh-top-nav-live-new">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner zg-clear" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container">
+<a class="zm-noti7-popup-tab-item message" href="javascript:;">
+<span class="icon">消息</span>
+<span class="new-noti" style="display:none;">new</span>
+</a>
+<a class="zm-noti7-popup-tab-item user" href="javascript:;">
+<span class="icon">用户</span>
+<span class="new-noti" style="display:none;">new</span>
+</a>
+<a class="zm-noti7-popup-tab-item thanks" href="javascript:;">
+<span class="icon">赞同和感谢</span>
+<span class="new-noti" style="display:none;">new</span>
+</a>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notify" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+<div id="mobile-top-nav-topic-popup" class="mobile-top-nav-popup">
+<ul class="top-nav-dropdown">
+
+<li>
+<a href="/topic/19550517">
+<img aria-hidden="true" data-2x="http://p4.zhimg.com/a0/6f/a06fc4c27_xs.jpg" src="http://p4.zhimg.com/a0/6f/a06fc4c27_s.jpg"><span>互联网</span>
+</a>
+</li>
+
+<li>
+<a href="/topic/19550994">
+<img aria-hidden="true" data-2x="http://p2.zhimg.com/fb/89/fb89e0ea3_xs.jpg" src="http://p2.zhimg.com/fb/89/fb89e0ea3_s.jpg"><span>游戏</span>
+</a>
+</li>
+
+<li>
+<a href="/topic/19551556">
+<img aria-hidden="true" data-2x="http://p3.zhimg.com/9e/32/9e3274b5f_xs.jpg" src="http://p3.zhimg.com/9e/32/9e3274b5f_s.jpg"><span>旅行</span>
+</a>
+</li>
+
+<li>
+<a href="/topic" class="all">
+<span>查看全部</span>
+</a>
+</li>
+</ul>
+<button class="slide-up"></button>
+</div>
+<div id="mobile-top-nav-profile-popup" class="mobile-top-nav-popup mobile-top-nav-popup-profile">
+<ul class="top-nav-dropdown" id="top-nav-profile-dropdown">
+<li>
+<a href="/people/wang-xin-yu-30">
+<i class="zg-icon zg-icon-dd-home"></i>我的主页
+</a>
+</li>
+
+<li>
+<a href="/inbox">
+<i class="zg-icon zg-icon-dd-pm"></i>私信
+<span id="zh-top-nav-pm-count" class="zu-top-nav-pm-count zg-noti-number"
+style="visibility:hidden" data-count="0">
+
+</span>
+</a>
+</li>
+<li>
+<a href="/settings">
+<i class="zg-icon zg-icon-dd-settings"></i>设置
+</a>
+</li>
+<li>
+<a href="/logout">
+<i class="zg-icon zg-icon-dd-logout"></i>退出
+</a>
+</li>
+</ul>
+
+<button class="slide-up"></button>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+<div class="zu-global-notify zu-global-notify-info" id="zh-question-redirect-info" style="display:none"></div>
+
+
+<div class="zu-global-notify zu-global-notify-info" id="zh-question-notification-summary" style="display:none;">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<span class="zu-global-notify-icon"></span>
+<ul class="zu-question-notify-wrap">
+</ul>
+</div>
+</div>
+</div>
+<div class="zg-wrap zu-main question-page" id="zh-single-question-page"
+data-urltoken="20874441">
+<div class="zu-main-content">
+<div class="zu-main-content-inner" id="zh-single-question">
+
+
+<div id="zh-message-container" class="zg-info-message" style="display:none;"></div>
+
+
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19552192"
+data-tip="t$b$19552192" data-token="19552192" data-topicid="658">
+健身
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19553128"
+data-tip="t$b$19553128" data-token="19553128" data-topicid="974">
+减肥
+</a>
+
+</div>
+</div>
+<div id="zh-question-title">
+
+<h2 class="zm-item-title zm-editable-content">
+
+如何健康有效地减肥？
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="530299" data-action="/question/detail">
+
+<div class="zm-editable-content">我本人女，163cm，到现在减肥3个月共减1.5公斤，现59公斤。这仨月，我每天运动60分钟有余，刚开始是做郑多燕的操，后两个月又加了pump it up2004；三餐米饭都减半，并用APP纪录每餐卡路里，每天摄入控制在1500卡以内，每天6杯水，戒酒、糖、甜饮料和所有垃圾食品..... 可是含辛茹苦三个月，就减了1.5公斤让我实在不忍直视电子秤，上火之余，想听听各位知友们的看法！并求高人指点！<br><br>认真读了大家的回复，受益良多。@高科 高教练提供的测试都做了一遍，情况很乐观！应该也是有这几个月运动铺垫的结果吧！另外，分享一个好消息，今早发现体重又下降了2斤，也就是说，总共减轻了5斤！真的还OK！<br>今天想再补充请教大家两个问题：<br>一、如果我的运动内容和运动量保持不变，体重会稳稳地持续下降吗？何时何种情况会达到饱和，或者说瓶颈期？需要怎样改变运动计划？加大运动量还是减小比较好？<br>二、一直的梦想（见下图）！！丰满而清爽，健康而有女人味，无肥腻感，无很硬朗的爷们肌肉，腹部线条迷人！！相信很多热爱生活的好姑娘都在追求这种范儿，我想问：这种身材需要某种天生的条件吗？以我现在的情况，这辈子能不能达到？如果能，要多努力？要多久？需要我现在做出怎样的调整！？</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+
+<a href="#" name="report-question" class="report zg-right">
+<i class="z-icon-no-help"></i>举报</a>
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>23 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+
+<span class="zg-bull">&bull;</span>
+<a href="#" name="invite" class="meta-item">邀请回答</a>
+
+
+
+
+<div class="panel-container">
+
+</div>
+</div>
+
+<div class="zh-answers-title clearfix">
+
+<h3 data-num="75" id="zh-question-answer-num">75 个回答</h3>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="530299" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div id="zh-question-answer-wrap" data-pagesize="50" class="zh-question-answer-wrapper" data-widget="navigable" data-navigable-options="{&quot;items&quot;: &quot;&gt;.zm-item-answer&quot;}" data-init="{&quot;params&quot;: {&quot;url_token&quot;: 20874441, &quot;pagesize&quot;: 50, &quot;offset&quot;: 0}, &quot;nodename&quot;: &quot;QuestionAnswerListV2&quot;}" data-fixed-summary="1">
+
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1717801"
+data-atoken="16466841"
+data-collapsed="0"
+data-created="1363964628"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="3522.12682681"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1717801"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$gao-ke-69"
+class="zm-item-link-avatar"
+href="/people/gao-ke-69">
+<img src="http://p2.zhimg.com/25/83/25832a4b4_s.jpg"
+class="zm-list-avatar"
+data-source="http://p2.zhimg.com/25/83/25832a4b4_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$gao-ke-69" href="/people/gao-ke-69">高科</a>，<strong title="跑酷私人教练" class="zu-question-my-bio">跑酷私人教练</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="1815">
+
+<span class="voters">
+<a data-tip="p$t$zhang-fu-sen-20" href="http://www.zhihu.com/people/zhang-fu-sen-20" class="zg-link" title="张富森">张富森</a>、<a data-tip="p$t$dongbudong" href="http://www.zhihu.com/people/dongbudong" class="zg-link" title="钱多">钱多</a>、<a data-tip="p$t$chen-mo-49-9" href="http://www.zhihu.com/people/chen-mo-49-9" class="zg-link" title="沉没">沉没</a>
+</span>
+
+
+<a href="javascript:;" name="more" class="zg-link-gray more"> 等 1815 人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">感谢邀请，下周给答案，最近几天太忙。<br>2013.03.31续：<br>我想一次把减肥写清楚，发现牵扯了太多的东西，实在没有时间一次写全了。这帖子如果不负责任地写也得1千来字，负责任地写可能要4-5万字，即使写了4,5万字，很大程度上，我可能还会遇到一些经典回复”好贴，收藏了（潜台词是：有时间再练！）”，这是给我最大的打击，我希望分享一些东西有人可以去实践，并有相关反馈。基于此，这帖子分几部分写，大家先看着练吧，每周有时间我就过来接一篇，如果实践反馈不好，那我就不写了。<br>减肥，塑形，增肌其实都可以归类在以良好体型为目的的训练。但本质上良好的体型是良好运动能力的附属表现。我写这个帖子入手的角度稍大，会牵扯很多减肥这件事之外的东西，希望大家不仅仅是知道该怎么减肥，而是要理解到该怎么运动，怎么训练。若都看明白了也差不多成了个初级健身教练了。<br><strong>大家都在问为什么有人跑步能减肥我跑步就不能减？减肥做什么运动好？<br></strong><br>这两个问题有同样一个答案，就是每个人的身体有较大的差异化，所以每个人都需要特别对待才能减肥，当然，特别对待不是指不同的人不同的训练手段，训练手段多少有重复，不可能10亿人减肥就用10亿种训练方法。我们可以做的是同一种训练，在强度，频率，训练总量，周期等因素上做一些人为的监控，让同样一种运动也能适应不同身体素质的人，比如两个人都在跑步，但是他们目的可能完全不一样，一个人可能是为了减肥，另一人也许就是在放松而已。<br>因此减肥的首要任务不是理解什么运动适合减肥，而是了解你自己的身体状况到底怎么样？<br>这第一篇开始我来掰一掰健身行业的秘密，教大家如何给自己做体能测试<br>针对不同人群的体能测试不一样，运动员，普通成年人，老年人，小孩儿，体能测试的手段都有差异。这里给大家介绍最基础的，最训练要求最低的，比如减肥，塑形，增肌的普通成年人体能测试方法。<br><strong>基础体能测试的目的很简单来说，就是判断你是否有足够能力，以不受伤为前提，进行一些实现你健身目标的基础运动。<br></strong><br>健身房的会员一般都会接受私人教练的免费体能测试，所以体能测试的另外一个功能是，这给私教和会员建立了一个直接对话的平台，会员可以更好了解教练的专业性，私教可以更好知道会员的问题所在，并给出专业性的建议。<br>不过你去健身房做体能测试的时候一定要当心一些教练，他可能会欺负你不懂体能测试的内容，把你的问题扩大化，然后促使你去买他的私教课，而实际上你只需要他的一些建议就行，完全不需要上私教课。这里教大家如何给自己做体能测试的目的也是免得各位上当受骗，同时督促下健身行业发展，因此看到的人越多越好。<br><strong>最基础体能测试的测试项目有以下几项：<br></strong><br>1.体脂，BMI<br>2.柔韧性<br>3.心肺耐力<br>4.肌肉耐力<br>5.稳定性<br><strong>第1项体脂和</strong><strong>BMI：</strong>体脂和BMI一般都用专业仪器测试，这两项都是为了判断你是否肥胖，一定程度上说，这两项数据可以让你进步不明显的时候做为数据监控让你坚持下去，但是如果训练得当，你的体型变化比较明显，那你就没有必要依赖这两个数值，因为你最终想看到的肯定是体型变化，而不是数据变化。<br>下面是我4个月训练前后的对比图<br><noscript><img src="http://p3.zhimg.com/be/49/be495d7c7bb8f7a89997123d25837d59_m.jpg" data-rawheight="300" data-rawwidth="565" class="origin_image zh-lightbox-thumb" width="565" data-original="http://p3.zhimg.com/be/49/be495d7c7bb8f7a89997123d25837d59_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawheight="300" data-rawwidth="565" class="origin_image zh-lightbox-thumb lazy" width="565" data-original="http://p3.zhimg.com/be/49/be495d7c7bb8f7a89997123d25837d59_r.jpg" data-actualsrc="http://p3.zhimg.com/be/49/be495d7c7bb8f7a89997123d25837d59_m.jpg"><br>左边是我训练前的照片，当时测了一下体脂16%。后面几个月都没有做过测试，右边的照片是我训练4个月后的状态，我当时都不知道体脂是多少，第5个月的时候我去测试是体脂5%。摆出这2张图是要说明体能测试如果没有专业仪器测试体脂并不是大问题，因为这两项仅仅是客观反映身体状态，而对实际运动没有起到多大功能性作用。另外我也想以此作为一个引子，方便以后向大家介绍我的训练方式和训练动作（当然你也可以直接看我4月份出版的新书《城市就是健身房》）我并没有以减肥为目标，而是以提高运动能力为目标，如果运动能力可以全面提高，所有这些减肥，增肌的健身目标都会作为附属效应而体现出来，我多次提到过这个训练理念。<br><br><strong>第2项：柔韧性，</strong>柔韧性是指关节的活动幅度，如果柔韧性不好，那说明你的肌肉静息长度短，肌肉力量相对就差，关节活动幅度小，并会引起肌肉不平衡现象，这些都会导致运动损伤的风险提高。这里的损伤包括意外伤害与慢性损伤，常见腰背酸痛都源于最开始的肌肉紧张。<br>基础柔韧性测试分为几大部分：胸，股直肌与髂腰肌，腘绳肌与后背<br><strong>测试动作：<br></strong><br><strong>1.胸：<br></strong><br>仰卧扩胸：<br><noscript><img src="http://p1.zhimg.com/42/fb/42fb026dce571afdccfb1858b95bc0d3_m.jpg" data-rawheight="214" data-rawwidth="320" class="content_image" width="320"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawheight="214" data-rawwidth="320" class="content_image lazy" width="320" data-actualsrc="http://p1.zhimg.com/42/fb/42fb026dce571afdccfb1858b95bc0d3_m.jpg"><br>其实就是仰卧起坐的起始姿势，卧姿，腰椎平贴地面，双手交叉抱脑后，像两侧打开，要别人帮你看一下你的两侧肘关节是否可以平贴地面，如果没有贴到，说明胸部和肩部肌肉都过度紧张，练习一些推和举的动作会可能会肩部受伤。这里会分一些等级，如果你的肘关节离地面5cm以上，你任何上肢要动的运动都不建议你做了，这时候不但是肌肉过紧而且存在肌肉不平衡，必须先调整过来再去想减肥的事。如果是2-3cm，那你多做一下拉伸就行了。<br>而很多私教往往就告诉你说这个状态叫圆肩（你可以理解为含胸弓背），如果不调整的话会出现肩部肌腱炎，然后要你买课。确实长期下去会出现肩部问题，但是在肩部或颈部问题并没有出现之前，解决圆肩问题也不是什么难事，完全不至于买一堆私教课去解决一个“圆肩”，我在这里一并说了，给你们省节私教课的钱：<br>如果在上面测试中肘关节贴不到地，离地2-3cm  只要做胸大肌，胸小肌，背阔肌拉伸<br>如果离地5cm或更多，做胸大肌，胸小肌、背阔肌拉伸，再练习中下斜方肌与菱形肌，肱三头肌力量。<br>训练动作：<br><strong>柔韧性练习</strong><br>拉伸胸大肌<br>拉伸胸小肌
+
+<br>拉伸背阔肌<br>这几个动作去查看我写的腰痛分析贴：<a href="http://www.zhihu.com/question/20777355/answer/16184194" class="internal">哪些运动可以加强腰背部肌肉，或避免腰背受伤，从而避免腰痛？</a><br>每个动作静态保持30秒，不要感觉疼痛，只要有肌肉牵拉感就行，早晚各1次。<br><strong>力量练习：<br></strong><br>中下斜方肌与菱形肌：<br><br>反向支撑<br><noscript><img src="http://p3.zhimg.com/6b/41/6b41a027620c0c769096fe43ed862586_m.jpg" data-rawheight="228" data-rawwidth="250" class="content_image" width="250">看上图，这是个普拉提动作，双手向后支撑，身体一条直线，重点在肩胛骨向后夹紧，腰臀收紧。如果你没有办法做到图中这样，可以手撑台阶上，抬高上半身位置，这个可以降低难度。这个动作每次保持1分钟，一共做4次。如果你一次没有办法维持1分钟，那记得维持总时间是4分钟，每次多长时间看你自己把握。</noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawheight="228" data-rawwidth="250" class="content_image lazy" width="250" data-actualsrc="http://p3.zhimg.com/6b/41/6b41a027620c0c769096fe43ed862586_m.jpg">看上图，这是个普拉提动作，双手向后支撑，身体一条直线，重点在肩胛骨向后夹紧，腰臀收紧。如果你没有办法做到图中这样，可以手撑台阶上，抬高上半身位置，这个可以降低难度。这个动作每次保持1分钟，一共做4次。如果你一次没有办法维持1分钟，那记得维持总时间是4分钟，每次多长时间看你自己把握。<br><br><br><br><strong>2.股直肌与髂腰肌柔韧性测试<br></strong><br><noscript><img src="http://p4.zhimg.com/3e/dc/3edc18dd925228221fce6fb68c15229d_m.jpg" data-rawheight="240" data-rawwidth="320" class="content_image" width="320"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawheight="240" data-rawwidth="320" class="content_image lazy" width="320" data-actualsrc="http://p4.zhimg.com/3e/dc/3edc18dd925228221fce6fb68c15229d_m.jpg"><br>参考图示<br>仰卧，抱腿左腿，腰椎平贴到床面，臀部下端尽量靠在床边缘，右腿放松自然下垂，如果右侧髋关节能完全打开，并且膝盖能低于床所在的平面，那说明髂腰肌与股直肌柔韧性良好。记得两侧都需要交换测试<br>柔韧性不好的如下图，髋关节没有完全打开，甚至大腿后侧贴不到床面<br><noscript><img src="http://p3.zhimg.com/f6/6f/f66f27ba89af8e7f44ae359b8519e214_m.jpg" data-rawheight="124" data-rawwidth="240" class="content_image" width="240"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawheight="124" data-rawwidth="240" class="content_image lazy" width="240" data-actualsrc="http://p3.zhimg.com/f6/6f/f66f27ba89af8e7f44ae359b8519e214_m.jpg"><br>如果股直肌和髂腰肌柔韧性不好会引起骨盆前倾的问题，骨盆前倾会导致一系列的问题，例如下背痛，膝盖疼痛。骨盆前倾是什么去看一下我之前发的深蹲和剪蹲帖子。我还是那句话，大部分人的骨盆前倾只要还没有出现腰背，髋关节，膝盖，脚踝的疼痛或不适等问题，自己练练就回来了，不用找私教。我写几个动作，有柔韧性不足的参考练习吧：<br>对于髂腰肌紧张引起的骨盆前倾：<br>拉伸动作（见<a href="http://www.zhihu.com/question/20777355/answer/16184194" class="internal">哪些运动可以加强腰背部肌肉，或避免腰背受伤，从而避免腰痛？</a><br>髂腰肌<br>股四头肌<br>股内收肌<br>训练动作：<br>桥式（查看<a href="http://www.zhihu.com/question/20775409" class="internal">如何完成标准的剪蹲？</a>）<br>平板支撑（查看<a href="http://www.zhihu.com/question/20777355/answer/16184194" class="internal">哪些运动可以加强腰背部肌肉，或避免腰背受伤，从而避免腰痛？</a>）<br>剪蹲（查看<a href="http://www.zhihu.com/question/20775409" class="internal">如何完成标准的剪蹲？</a>）<br>注意：如果出现反复性，顽固性的髂腰肌紧张，上面动作不会起到明显作用，这往往是因为一系列的肌肉相互影响和运动模式，生活姿态出现问题而导致，这时候应该去找个老道的教练给你解决问题，这就不再是柔韧性测试这么简单。<br><br>3.腘绳肌与竖脊肌柔韧性测试<br>测试动作<br>坐体前屈<br><noscript><img src="http://p2.zhimg.com/11/4a/114add68e075b9c71c372e21515b05e0_m.jpg" data-rawheight="258" data-rawwidth="394" class="content_image" width="394"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawheight="258" data-rawwidth="394" class="content_image lazy" width="394" data-actualsrc="http://p2.zhimg.com/11/4a/114add68e075b9c71c372e21515b05e0_m.jpg"><br>这个动作大家都熟悉，一般只要双手摸到脚就基本合格了，超过越多越好，运动也不会存在什么意外伤害。<br>如果摸不到脚尖的人，要好好练练大腿后侧和臀部的柔韧性，平时可能出现的问题是膝盖疼痛，膝盖容易扭伤，腰部容易出现疼痛，在你没有出现这些问题之前练简单几个动作可以把自己调整过来<br>拉伸动作查看<a href="http://www.zhihu.com/question/20777355/answer/16184194" class="internal">哪些运动可以加强腰背部肌肉，或避免腰背受伤，从而避免腰痛？</a><br>臀大肌拉伸<br>腓肠肌拉伸<br>腘绳肌拉伸（测试动作本身就能做腘绳肌拉伸，改成后背挺直向前倾斜身体即可）<br>今天没时间了，先写到这吧。<br><strong>总结一下：</strong>2013.03.31写了体能测试的柔韧性测试部分，体能测试目的是先了解自己身体状况，在今后的运动中可以更加具有针对性，知道自己该练什么。同时提供了一些针对柔韧性不足的专项训练方案，如果各位有人在这几个基础的柔韧性测试中都不合格，那先合格再谈减肥或者增肌，塑形之类的事，否则贸然行事，只是增加了受伤的风险，降低训练效率，打击自己的自信心。借此篇文章希望提高各位的训练专业性，一方面让大家免受一些傻×私教影响，另一方面提高今后互相交流的效率。<br><br>后续：<a href="http://www.zhihu.com/question/20926359?group_id=22746701#1783579-comment" class="internal">减肥前怎么做耐力测试？</a><br><a href="http://www.zhihu.com/question/20978495" class="internal"><span class="invisible">http://www.</span><span class="visible">zhihu.com/question/2097</span><span class="invisible">8495</span><span class="ellipsis"></span></a><br><a href="http://www.zhihu.com/question/21107187" class="internal">如何自己制定健身训练计划？</a>
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1717801-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>1815</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">1815</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16466841">2013-05-25</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>110 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1757147"
+data-atoken="16564190"
+data-collapsed="0"
+data-created="1364829079"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="118.12726559"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1757147"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$aphrodite"
+class="zm-item-link-avatar"
+href="/people/aphrodite">
+<img src="http://p1.zhimg.com/e1/9e/e19e5679b_s.jpg"
+class="zm-list-avatar"
+data-source="http://p1.zhimg.com/e1/9e/e19e5679b_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$aphrodite" href="/people/aphrodite">Aphrodite</a>，<strong title="笑挽梅君共雪妆" class="zu-question-my-bio">笑挽梅君共雪妆</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="69">
+
+<span class="voters">
+<a data-tip="p$t$hu-jian-82" href="http://www.zhihu.com/people/hu-jian-82" class="zg-link" title="胡剑">胡剑</a>、<a data-tip="p$t$cjc-70" href="http://www.zhihu.com/people/cjc-70" class="zg-link" title="CJC">CJC</a>、<a data-tip="p$t$dongganlaodaye" href="http://www.zhihu.com/people/dongganlaodaye" class="zg-link" title="dongganlaodaye">dongganlaodaye</a>
+</span>
+
+
+<a href="javascript:;" name="more" class="zg-link-gray more"> 等 69 人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">162cm，之前体重60+，目前体重在49-51KG之间浮动（饭前/饭后的差别），时间从2012年元旦开始，在2012年6月份的时候体重稳定在53KG左右，2013年元旦以来体重稳定在目前的范围。以下是我的经历和心得：<br>1. 戒掉所有的咖啡、碳酸类饮料和零食，尤其是宵夜。<br>2. 不吃外食，每天回家做饭，中午自己带饭。这点很重要，吃外食不管你怎么控制卡路里，因为原材料和制作过程你不了解，有些时候即使你严格控制了卡路里还是吃了很多，远超过你认为的。<br>三餐要定时，晚上8点以后不要进食，实在饿到不行就喝酸奶或者水果。<br>3. 早饭一定吃，午饭吃的比较好（基本是不忌口的），晚饭不吃荤，实在要吃荤就少吃或者吃白肉（鱼、虾类和鸡鸭类），每天1-2个水果（一般是下午）<br>4. 睡眠保证6个半到7个小时左右，不要熬夜<br>5. 运动。不要以为追求很时尚的，要找适合自己的。我是跑步，每天30-45分钟左右，开始不习惯，调整了一个月才好的。<br><br>最后的建议：<br>任何事情，无论工作、还是生活，都需要找到合适自己的节奏，以上经验是我的，对我很适用，但是未必适用每个人。<br>写出来是给大家做参考的~ 寻找何时自己的方法是需要一定的时间的，坚持有耐心才是基本。<br><br>祝你成功！期待你的好消息。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1757147-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>69</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">69</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16564190">2013-04-01</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>47 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1717319"
+data-atoken="16465651"
+data-collapsed="0"
+data-created="1363957094"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="20.1273513065"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1717319"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$cheng-nian"
+class="zm-item-link-avatar"
+href="/people/cheng-nian">
+<img src="http://p1.zhimg.com/07/65/07651a8f8_s.jpg"
+class="zm-list-avatar"
+data-source="http://p1.zhimg.com/07/65/07651a8f8_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$cheng-nian" href="/people/cheng-nian">城年</a>，<strong title="Mac pro接受预定，最强”垃圾桶“，hkdindin.taobao.com" class="zu-question-my-bio">Mac pro接受预定，最强”垃圾桶“，…</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="11">
+
+<span class="voters">
+<a data-tip="p$t$KevinKind" href="http://www.zhihu.com/people/KevinKind" class="zg-link" title="KevinKind">KevinKind</a>、<a data-tip="p$t$sai-shang-qiu-feng" href="http://www.zhihu.com/people/sai-shang-qiu-feng" class="zg-link" title="塞上秋风">塞上秋风</a>、<a data-tip="p$t$yang-jing-71-88" href="http://www.zhihu.com/people/yang-jing-71-88" class="zg-link" title="杨菁">杨菁</a>
+</span>
+
+
+<a href="javascript:;" name="more" class="zg-link-gray more"> 等 11 人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">单从体重上看，已经是标准体重了！题主需要关注的是体型，不是体重！十斤肥肉和十斤瘦肉，体积大概差3倍左右。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1717319-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>11</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">11</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16465651">2013-03-22</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>8 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1717502"
+data-atoken="16466091"
+data-collapsed="0"
+data-created="1363959882"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="53.1273471345"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1717502"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$bi-luo"
+class="zm-item-link-avatar"
+href="/people/bi-luo">
+<img src="http://p4.zhimg.com/fd/68/fd68828a0_s.jpg"
+class="zm-list-avatar"
+data-source="http://p4.zhimg.com/fd/68/fd68828a0_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$bi-luo" href="/people/bi-luo">碧落</a>，<strong title="对一张琴，一壶酒，一溪云。" class="zu-question-my-bio">对一张琴，一壶酒，一溪云。</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="28">
+
+<span class="voters">
+<a data-tip="p$t$cuikai-wh" href="http://www.zhihu.com/people/cuikai-wh" class="zg-link" title="崔凯">崔凯</a>、<a data-tip="p$t$rumeng-xu" href="http://www.zhihu.com/people/rumeng-xu" class="zg-link" title="Rumeng Xu">Rumeng Xu</a>、<a data-tip="p$t$po-pocopy" href="http://www.zhihu.com/people/po-pocopy" class="zg-link" title="po pocopy">po pocopy</a>
+</span>
+
+
+<a href="javascript:;" name="more" class="zg-link-gray more"> 等 28 人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">我看了提问者的回复，发现是嫌弃自己腹部的肥肉，重要的不是体重。<br>教你一个非常有效的方法……我当时用了一两个星期就明显发现肚子变平好多。<br>方法是平躺在床上，靠腹部力量，使得双腿笔直地缓慢抬起来到45度，再缓慢放下来。<br>一定要够慢，快的话毫无效果。抬起来不少于15秒，放下来也不少于15秒。匀速缓慢！<br>忘了说了，不能只做一次啊= =建议每天做两组，每组10~20个。你要是有力气多做的话更好
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1717502-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>28</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">28</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16466091">2013-03-23</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>15 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1717354"
+data-atoken="16465734"
+data-collapsed="0"
+data-created="1363957556"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="9.1273510667"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1717354"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$David_Ren"
+class="zm-item-link-avatar"
+href="/people/David_Ren">
+<img src="http://p3.zhimg.com/ca/9c/ca9cb33e7_s.jpg"
+class="zm-list-avatar"
+data-source="http://p3.zhimg.com/ca/9c/ca9cb33e7_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$David_Ren" href="/people/David_Ren">AEDK火烈鸟</a>，<strong title="IT民工" class="zu-question-my-bio">IT民工</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="6">
+
+<span class="voters">
+<a data-tip="p$t$zhu-gu-li-56" href="http://www.zhihu.com/people/zhu-gu-li-56" class="zg-link" title="猪鼓励">猪鼓励</a>、<a data-tip="p$t$chu-jiang-dong" href="http://www.zhihu.com/people/chu-jiang-dong" class="zg-link" title="楚江东">楚江东</a>、<a data-tip="p$t$Ysis" href="http://www.zhihu.com/people/Ysis" class="zg-link" title="Sa Yi">Sa Yi</a>
+</span>
+
+
+<a href="javascript:;" name="more" class="zg-link-gray more"> 等 6 人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">坚持，继续坚持。。。。。<br><br>话说我减了一年多，也就从78kg降到76kg，但我是减了4kg脂肪，增加了2kg肌肉，然后体型整个不一样了。<br><br>所以，现在的你，需要关注的不是体重的那个数字，而是你的脂肪含量。去买个脂肪仪吧。。。。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1717354-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>6</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">6</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16465734">2013-03-22</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>7 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1718837"
+data-atoken="16469371"
+data-collapsed="0"
+data-created="1364005275"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="30.1273465399"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1718837"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$xie-yang-87"
+class="zm-item-link-avatar"
+href="/people/xie-yang-87">
+<img src="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg"
+class="zm-list-avatar"
+data-source="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$xie-yang-87" href="/people/xie-yang-87">薛洋</a>，<strong title="工科研究生，哭等毕业" class="zu-question-my-bio">工科研究生，哭等毕业</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="17">
+
+<span class="voters">
+<a data-tip="p$t$qiantian-shao" href="http://www.zhihu.com/people/qiantian-shao" class="zg-link" title="qiantian shao">qiantian shao</a>、<a data-tip="p$t$lllarqing" href="http://www.zhihu.com/people/lllarqing" class="zg-link" title="梁雅晴">梁雅晴</a>、<a data-tip="p$t$li-yi-34-6" href="http://www.zhihu.com/people/li-yi-34-6" class="zg-link" title="李燚">李燚</a>
+</span>
+
+
+<a href="javascript:;" name="more" class="zg-link-gray more"> 等 17 人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">我是男的，从90KG减到70KG<br>基本上每天晚上跑步，最开始只能跑个四圈，现在是三十圈，400米的跑道<br>然后按时按量饮食，不是节食，而是每天固定时间吃三餐饭，每次的量比之前的略少，但也不会吃得很少。最主要的是要一直持续下去。比如说你规定一餐吃二个菜，忽然有一天胃口大好，想吃三个菜了，这时候一定要忍住。<br>此外就是不吃夜宵，方便面，奶茶，烧烤。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1718837-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>17</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">17</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16469371">2013-03-23</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>20 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="2164444"
+data-atoken="17565801"
+data-collapsed="0"
+data-created="1371571476"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="19.1266393758"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2164444"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zhang-bo-47"
+class="zm-item-link-avatar"
+href="/people/zhang-bo-47">
+<img src="http://p2.zhimg.com/49/87/4987a2448_s.jpg"
+class="zm-list-avatar"
+data-source="http://p2.zhimg.com/49/87/4987a2448_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$zhang-bo-47" href="/people/zhang-bo-47">张波</a>，<strong title="没钱，还喜欢到处去跑。" class="zu-question-my-bio">没钱，还喜欢到处去跑。</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="10">
+
+<span class="voters">
+<a data-tip="p$t$pan-long-9-15" href="http://www.zhihu.com/people/pan-long-9-15" class="zg-link" title="潘龙">潘龙</a>、<a data-tip="p$t$cheying" href="http://www.zhihu.com/people/cheying" class="zg-link" title="澈影">澈影</a>、<a data-tip="p$t$ashley-w-17" href="http://www.zhihu.com/people/ashley-w-17" class="zg-link" title="Ashley W">Ashley W</a>
+</span>
+
+
+<a href="javascript:;" name="more" class="zg-link-gray more"> 等 10 人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">看了几个很专业的回答，觉得很好。但关于这个话题，也想说两句。只是自己的经验。<br>我是一个比较容易发胖的体质。只要不控制，就一定会在170斤左右。男生，178cm。这四年，减了3次，每次都很成功，来来回回大概减了100斤了。只是在瘦到120到130斤后因为种种原因不在乎体重又吃了回去。<br>其实我觉得每天说自己要减肥的人很难真正减下来。因为心不静。一口吃不成个胖子。同样，一下也不可能瘦下来。想减肥就不要想着有什么可以不受罪或者什么生活习惯都不用改舒舒服服的瘦下去。不可能。<br>就我来说，最极端的时候一个月吃饭花了22块钱。基本就是一天吃个饼或者1块钱买的挂面吃3天。每天跑步十公里，仰卧起坐50个，俯卧撑30个。每次减肥基本都稳定在一个月瘦10斤左右。当然我也承认这样并不健康，同时也会有很多人不能这样坚持下去。<br>现在还在减肥中，1个半月了吧，瘦了17斤。这次基本是晚饭不吃，午饭少吃，大概1个星期左右就习惯了，胃变小了吃不下太多并且不怎么感觉到饿了。有时间跑步5公里，没时间就休息下。<br>我觉得如果身体过于肥胖，一定是生活方式或者生活状态不健康。你不是在减肥，而是在改变你的生活方式。至少我每次瘦都是有了一个积极的目标为之努力，胖起来就是因为堕落了迷茫了什么的。<br>认识的人有的对我说过你有一个强大的内心。我觉得夸的有点过了。只是如果你真的认准了一件事，并且经过了深思熟虑，就一定要坚持做下去直至达成目标。<br>对于减肥，我一直想对身边的朋友说，有了目标，才能产生强大的动力，你知道你做的事情值得，才会如此疯狂的坚持不懈。不要想着轻松的瘦下来，凭什么。<br>这个月底瘦到140斤。下个月会去骑行川藏线，完成自己一年前许下的愿望，对得起自己这一年各种兼职赚钱买装备，遇到各种困难都咬牙挺过来了。一个月的风雨兼程，怎么也得洒下15斤肉吧。。呵呵。<br>坚持不懈，保持乐观，拥有希望，改变生活态度，养成良好生活方式。积极面对生活一切问题的人不可能会胖的夸张。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2164444-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>10</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">10</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/17565801">2013-06-19</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>7 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="3166658"
+data-atoken="19954891"
+data-collapsed="0"
+data-created="1383927496"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="14.1256327298"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-3166658"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$a-chao-63"
+class="zm-item-link-avatar"
+href="/people/a-chao-63">
+<img src="http://p2.zhimg.com/6c/76/6c766a945_s.jpg"
+class="zm-list-avatar"
+data-source="http://p2.zhimg.com/6c/76/6c766a945_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$a-chao-63" href="/people/a-chao-63">啊超</a>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="8">
+
+<span class="voters">
+<a data-tip="p$t$guo-guo-37-56" href="http://www.zhihu.com/people/guo-guo-37-56" class="zg-link" title="郭郭">郭郭</a>、<a data-tip="p$t$wang-lei-17-29" href="http://www.zhihu.com/people/wang-lei-17-29" class="zg-link" title="王蕾">王蕾</a>、<a data-tip="p$t$yuewei-wu" href="http://www.zhihu.com/people/yuewei-wu" class="zg-link" title="YUEWEI WU">YUEWEI WU</a>
+</span>
+
+
+<a href="javascript:;" name="more" class="zg-link-gray more"> 等 8 人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">有氧运动最先开始消耗的不是脂肪，是达到一定的时间和心率之后才开始消耗脂肪，建议你以后运动可以先做一些力量训练也就是无氧运动，强度不用太大，稍微做个一刻钟左右，然后在开始有氧运动，无氧运动会先改变你的心率，然后有氧的话就可以比较好的消耗脂肪，当然你吃饭的话不一定要减半，只是说吃饱就行了，也给你一个建议，就是倒三角饮食（早上最多，中午稍微减一点，晚饭尽量少吃（还是饱就行了）），一开始你可能不会看到太多的变化，但是坚持下来吧，坚持下来之后你就会看到效果的，其实减肥真的不用注重体重基数，看重身体维度的变化就好，运动之后比以前变得身体更棒就好
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="3166658-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>8</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">8</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/19954891">2013-11-09</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1789242"
+data-atoken="16643446"
+data-collapsed="0"
+data-created="1365498550"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="4.1272005584"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1789242"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$lu-yan-tang"
+class="zm-item-link-avatar"
+href="/people/lu-yan-tang">
+<img src="http://p1.zhimg.com/d2/41/d241533a2_s.jpg"
+class="zm-list-avatar"
+data-source="http://p1.zhimg.com/d2/41/d241533a2_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$lu-yan-tang" href="/people/lu-yan-tang">陆彦帑</a>，<strong title="CST、Algorithm、Network、Unix/Linux" class="zu-question-my-bio">CST、Algorithm、Network、Unix/Linux</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="4">
+
+<span class="voters">
+<a data-tip="p$t$qiu-qiu-8-47" href="http://www.zhihu.com/people/qiu-qiu-8-47" class="zg-link" title="秋秋">秋秋</a>、<a data-tip="p$t$qiao-chu-34" href="http://www.zhihu.com/people/qiao-chu-34" class="zg-link" title="翘楚">翘楚</a>、<a data-tip="p$t$unders_unshine" href="http://www.zhihu.com/people/unders_unshine" class="zg-link" title="sunshine under">sunshine under</a>
+</span>
+
+
+<a href="javascript:;" name="more" class="zg-link-gray more"> 等 4 人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">一个月之前我也在寻求健康瘦身策略，基本无果。我就自己操刀制定了，每天只吃一顿早餐（一根油条，两份凉拌菜（芹菜和白菜），一份汤（西红柿鸡蛋汤或者豆腐
+脑）。你可能觉得我的早餐热量太高了，可是如果只吃一顿还不来点自己喜欢的那去死好了。早餐必须吃，因为我一大学同学不好好吃早餐现在没胆儿了。），综合维生素两片，每天一暖壶多的水（最近我爱恋的姐姐给寄来许多
+特好喝的糯香小饼普洱茶所以改喝茶了），无运动。一个多月，我从98公斤降到了今早上的82.5公斤，中间聚餐也会喝酒吃饭，所以会反复，但是很快会稳下
+来继续下降。中间有plateau，咬牙忍者，过几天又继续下降。我打算四月份下旬重启锻炼。我高182，肩膀很宽而且厚所以不显胖，大腿都是肌肉，锻炼
+没用，除了更结实以外根本瘦不下来。所以就干脆节食了，此行主要目的还是锻炼意志，现在收获许多。瘦身还是从源头着手比较靠谱儿！
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1789242-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>4</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">4</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16643446">2013-04-09</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>5 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="3344783"
+data-atoken="20392514"
+data-collapsed="0"
+data-created="1385560101"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="4.1255111447"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-3344783"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$sun-jia-wei-37"
+class="zm-item-link-avatar"
+href="/people/sun-jia-wei-37">
+<img src="http://p4.zhimg.com/f4/ab/f4abc490c_s.jpg"
+class="zm-list-avatar"
+data-source="http://p4.zhimg.com/f4/ab/f4abc490c_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$sun-jia-wei-37" href="/people/sun-jia-wei-37">孙嘉伟</a>，<strong title="啊" class="zu-question-my-bio">啊</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="2">
+
+<span class="voters">
+<a data-tip="p$t$cheying" href="http://www.zhihu.com/people/cheying" class="zg-link" title="澈影">澈影</a>、<a data-tip="p$t$yars" href="http://www.zhihu.com/people/yars" class="zg-link" title="YARS">YARS</a>
+</span>
+
+
+<span>赞同</span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">俩个字：“坚持”！其它什么的不重要了。三天打鱼两天晒网，能练出个毛啊！！！
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="3344783-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>2</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">2</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/20392514">2013-11-27</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1717399"
+data-atoken="16465848"
+data-collapsed="0"
+data-created="1363958383"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="9.1273511789"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1717399"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$yan-xiao-chen-64"
+class="zm-item-link-avatar"
+href="/people/yan-xiao-chen-64">
+<img src="http://p1.zhimg.com/a7/bf/a7bf10e0a_s.jpg"
+class="zm-list-avatar"
+data-source="http://p1.zhimg.com/a7/bf/a7bf10e0a_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$yan-xiao-chen-64" href="/people/yan-xiao-chen-64">阎晓晨</a>，<strong title="好奇害死猫" class="zu-question-my-bio">好奇害死猫</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="6">
+
+<span class="voters">
+<a data-tip="p$t$rumeng-xu" href="http://www.zhihu.com/people/rumeng-xu" class="zg-link" title="Rumeng Xu">Rumeng Xu</a>、<a data-tip="p$t$lllarqing" href="http://www.zhihu.com/people/lllarqing" class="zg-link" title="梁雅晴">梁雅晴</a>、<a data-tip="p$t$yu-ke-xin" href="http://www.zhihu.com/people/yu-ke-xin" class="zg-link" title="俞可歆">俞可歆</a>
+</span>
+
+
+<a href="javascript:;" name="more" class="zg-link-gray more"> 等 6 人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">我三个月减了15斤，因为注射免疫球蛋白是按体重收费的。。。。。<br>我的方法是先做无氧运动再做有氧运动，器械一小时、腹部锻炼四组、跑步机40分钟左右、跑步的心跳速率保持在155左右，以上动作一周三次。每周做三次腹肌撕裂者，晚餐减半，其余没有什么特别注意的地方。<br>还有就是要坚持。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1717399-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>6</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">6</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16465848">2013-03-22</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>6 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1755612"
+data-atoken="16560463"
+data-collapsed="0"
+data-created="1364806207"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="10.1256794239"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1755612"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$yiqiedouhao"
+class="zm-item-link-avatar"
+href="/people/yiqiedouhao">
+<img src="http://p3.zhimg.com/05/e8/05e83c0ea_s.jpg"
+class="zm-list-avatar"
+data-source="http://p3.zhimg.com/05/e8/05e83c0ea_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$yiqiedouhao" href="/people/yiqiedouhao">憧绿</a>，<strong title="被自己绕在圈圈里" class="zu-question-my-bio">被自己绕在圈圈里</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="6">
+
+<span class="voters">
+<a data-tip="p$t$da-qiao-78" href="http://www.zhihu.com/people/da-qiao-78" class="zg-link" title="大乔">大乔</a>、<a data-tip="p$t$namerj" href="http://www.zhihu.com/people/namerj" class="zg-link" title="namerj">namerj</a>、<a data-tip="p$t$liu-ying-jing" href="http://www.zhihu.com/people/liu-ying-jing" class="zg-link" title="劉穎婧">劉穎婧</a>
+</span>
+
+
+<a href="javascript:;" name="more" class="zg-link-gray more"> 等 6 人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">所谓减肥，应该是抛弃掉不好的生活习惯， 形成一种好的生活习惯。比如多吃蔬菜，吃饭8分饱，经常锻炼等等。仅仅依靠节食减下去的肥，日后也必将反弹。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1755612-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>6</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">6</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16560463">2013-11-01</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>2 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="3233681"
+data-atoken="20121425"
+data-collapsed="0"
+data-created="1384596245"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="9.1255826362"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-3233681"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$xinyi-lyu"
+class="zm-item-link-avatar"
+href="/people/xinyi-lyu">
+<img src="http://p2.zhimg.com/e3/af/e3af29f3a_s.jpg"
+class="zm-list-avatar"
+data-source="http://p2.zhimg.com/e3/af/e3af29f3a_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$xinyi-lyu" href="/people/xinyi-lyu">Xinyi Lyu</a>，<strong title="安静" class="zu-question-my-bio">安静</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="5">
+
+<span class="voters">
+<a data-tip="p$t$Januaryhan" href="http://www.zhihu.com/people/Januaryhan" class="zg-link" title="Michelle">Michelle</a>、<a data-tip="p$t$chen-chen-ju" href="http://www.zhihu.com/people/chen-chen-ju" class="zg-link" title="陈辰菊">陈辰菊</a>、<a data-tip="p$t$cai-jie-lu" href="http://www.zhihu.com/people/cai-jie-lu" class="zg-link" title="蔡结绿">蔡结绿</a>
+</span>
+
+
+<a href="javascript:;" name="more" class="zg-link-gray more"> 等 5 人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">把身体调养健康了，大自然就会给你最适合的身形最完美的脸庞。每天早睡早起，锻炼，吃健康的食物，做喜欢的事情，保持快乐不急躁。不能受益更多。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="3233681-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>5</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">5</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/20121425">2013-11-16</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="2592381"
+data-atoken="18596765"
+data-collapsed="0"
+data-created="1377637505"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="-8.8738751697"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2592381"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$Silvercxy"
+class="zm-item-link-avatar"
+href="/people/Silvercxy">
+<img src="http://p1.zhimg.com/ca/50/ca509fd58_s.jpg"
+class="zm-list-avatar"
+data-source="http://p1.zhimg.com/ca/50/ca509fd58_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$Silvercxy" href="/people/Silvercxy">Silver</a>，<strong title="xx" class="zu-question-my-bio">xx</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="1">
+
+<span class="voters">
+<a data-tip="p$t$simon-gao" href="http://www.zhihu.com/people/simon-gao" class="zg-link" title="Simon Gao">Simon Gao</a>
+</span>
+
+
+<span>赞同</span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">虽然不提倡 但是我确实瘦了。以前不敢面对体重 记得军训回来是42kg 结果在家吃太好 每天以至少2kg的速度蹭蹭蹭的涨 以至于后来52kg54kg惨不忍睹（我只有158cm）无法面对就没称了。1年后…下决心又买了称体重的 最开始是51kg 后来每天称都是以至少1kg的速度往下降 连续称了5天 第5天体重是45kg。总结了一下：由于心情不好 吃的很少（其实饿3天食欲就会大大减少 要不吃早餐就可以一天不饿 要不只吃一点点就很饱了）我觉得吃少是很关键的 你每天做再多运动 在吃的方面不注意 是没用的。然后就是出汗 可能那5天几乎天天冒着40度以上的高温出门。还有就是排毒很重要（如果有肚子 喝肠润茶+做腹肌运动 很快就没了）反正现在体重在46-47 也没像以前一样吃很少 就很正常进食 体重就在这直接 没多大变化了。游泳是很不错的 饿得也快 如果控制饮食会瘦得很快。什么只三餐减少半碗饭 这些根本没用。要减少更多！
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2592381-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>1</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">1</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/18596765">2013-08-28</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>12 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="2005242"
+data-atoken="17177282"
+data-collapsed="0"
+data-created="1369300065"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="-3.873156537"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2005242"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$xiaoo"
+class="zm-item-link-avatar"
+href="/people/xiaoo">
+<img src="http://p1.zhimg.com/03/ae/03ae98ca1_s.jpg"
+class="zm-list-avatar"
+data-source="http://p1.zhimg.com/03/ae/03ae98ca1_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$xiaoo" href="/people/xiaoo">小欧</a>，<strong title="我只知道自己无知。" class="zu-question-my-bio">我只知道自己无知。</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="2">
+
+<span class="voters">
+<a data-tip="p$t$zoezhong" href="http://www.zhihu.com/people/zoezhong" class="zg-link" title="钟宇航Zoe">钟宇航Zoe</a>、<a data-tip="p$t$yskin" href="http://www.zhihu.com/people/yskin" class="zg-link" title="yskin">yskin</a>
+</span>
+
+
+<span>赞同</span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">过午不食或少食。（10天时间，我减了8斤）
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2005242-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>2</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">2</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/17177282">2013-05-23</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>15 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1754667"
+data-atoken="16558164"
+data-collapsed="0"
+data-created="1364793398"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="5.127269025"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1754667"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+<h3 class="zm-item-answer-author-wrap">匿名用户</h3></div>
+<div class="zm-item-vote-info " data-votecount="3">
+
+<span class="voters">
+<a data-tip="p$t$yi-jian-mo" href="http://www.zhihu.com/people/yi-jian-mo" class="zg-link" title="伊简莫">伊简莫</a>、<a data-tip="p$t$li-zi-zhu-47" href="http://www.zhihu.com/people/li-zi-zhu-47" class="zg-link" title="李梓茱">李梓茱</a>、<a data-tip="p$t$jjwang" href="http://www.zhihu.com/people/jjwang" class="zg-link" title="jjwang">jjwang</a>
+</span>
+
+
+<span>赞同</span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">我觉得郑多燕操比较温柔，塑形的功能比减肥的功能大，但目前阶段你应该拼命先减体重，再塑形（能比较快看出效果）。还有你吃的饭量比以前少一半，但是不知你本来的基数是多少，我觉得要减肥的话，一天1500的卡路里摄入并不算很少。<br><br>        运动减肥效果真的蛮慢的，我以前一星期跳绳2、3次，每次1小时，也没减掉。我也有一段时间坚持不吃零食、不吃晚饭，效果也不怎么。虽然这样下来朋友有说我瘦，不过没达到我预想的效果，那个时候也觉得很沮丧。现在我没那段“有决心”减肥的日子那么严苛，不过已经养成“偶尔要运动+稍微少吃”的习惯，平时注意吃垃圾食品，体重是稳中有降。<br><br>不要看别人说自己吹嘘自己在多短的时间内减了多少多少，大部分营销，真正成功的案例都是长期坚持。减肥没太多要讲的方法，不可能一口气吃成一个大胖子，也不可能几个月内就减重很多而且从此不反弹。愿和提问者共勉之 (???)
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1754667-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>3</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">3</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16558164">2013-04-01</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>1 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1784287"
+data-atoken="16631237"
+data-collapsed="0"
+data-created="1365407224"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.1272093729"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1784287"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$yan-zhong-feng"
+class="zm-item-link-avatar"
+href="/people/yan-zhong-feng">
+<img src="http://p2.zhimg.com/a8/9a/a89ae0606_s.jpg"
+class="zm-list-avatar"
+data-source="http://p2.zhimg.com/a8/9a/a89ae0606_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$yan-zhong-feng" href="/people/yan-zhong-feng">闫钟峰</a>，<strong title="学数学的图书馆系统管理员" class="zu-question-my-bio">学数学的图书馆系统管理员</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="4">
+
+<span class="voters">
+<a data-tip="p$t$zhao-xiao-bai-4" href="http://www.zhihu.com/people/zhao-xiao-bai-4" class="zg-link" title="赵小白">赵小白</a>、<a data-tip="p$t$lei-than" href="http://www.zhihu.com/people/lei-than" class="zg-link" title="lei than">lei than</a>、<a data-tip="p$t$de-lu-pi" href="http://www.zhihu.com/people/de-lu-pi" class="zg-link" title="德鲁皮">德鲁皮</a>
+</span>
+
+
+<a href="javascript:;" name="more" class="zg-link-gray more"> 等 4 人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">寒假回家前体重大约是130多点，对于身高168的人来说还不算很过分。不过回家后虽然坚持不喝酒，少吃肉，但不运动，睡得又足，回成都后，我觉得体重会比放假前上升一些。2月24号早晨，
+在文星镇的药店空腹称重，居然达到142，我觉得是他们的秤不准。但是下午在西南交大又称了一下，141多点，还没穿鞋和外套。已经差不多达到我的历史最
+高体重了。这让我很不舒服，我决定把体重降一下，在四月之前降到130以内。<br>第一阶段：取消晚饭。基于去年的经验，不吃晚饭可以非常迅速的
+降低体重，所以懒得运动（主要是担心空气不好，运动了反而对身体不好）的我决定先采用这个方案降一下体重。从25号开始到现在，基本每天都不吃晚饭，偶尔
+有例外。利用这个方法，没怎么运动，我就比较轻松的从142降到了132。这期间的运动量确实比较小，每天俯卧撑，每组20，一般都在5组以上。中间由于
+状态太好，急功冒进，连续几天做得太多，累着了，又歇了几天。这很不好，应该每天固定一个范围，比如100到160，状态好也不要多做，状态不好也要坚持
+做完基本的100个。根据我的经验，俯卧撑对减腰围比较有效果，但要锻炼腹肌，还得做仰卧起坐。这个我从小就很差，每组十个，逐渐也加到了每天100+。
+偶尔还跳会儿绳。<br>从2月25号到3月中旬，用这种不吃晚饭，做些力量练习的方法，到3月16号的时候已经降到了132。效果还不错。不过尴尬的是，到3月20号的时候还是132。我知道，要想在11天内降到130内，不跑步是不行了。<br>第二阶段：继续保持力量练习和不吃完晚饭，每天跑步。这几天空气还不错，每天晚上去跑步，跑了两三天就降到131了。本想继续跑下去，26号感冒了，于是力量练习和跑步都停了三天。这几天没锻炼，本以为体重不会降，不想今天去称时已经降到126.5了。<br>第二阶段的总结是：感冒比跑步对降体重还有效啊！！！！囧！<br>关
+于一日三餐，说一下我的理解：早饭提供一天的能量，所以热量要高一些，多吃一些饭，营养类的倒不适合在早饭补充，比如牛奶鸡蛋肉什么的，早晨吃了也没什么
+用，还是当能量消耗掉。中午应该吃些营养丰富的，把早晨的牛奶鸡蛋什么的放到这时候吃就比较好。晚上其实即使吃也不该吃太多，不然睡着了以后肠胃还得继续
+工作。不吃晚饭并不是很大的问题，只要不会饿得胃不舒服，完全可以不吃的。初期的时候，为了防止会饿得胃不舒服，我很早就睡觉了。其实后来连续几天不吃晚
+饭身体就已经适应了，稍微晚点睡，比如十点多，也没问题了。而且每天早晨醒来，会感觉休息得很好——肯定会休息的好，力量练习有助于睡眠，加上晚上不吃
+饭，消化系统一晚上都在休息。这中间，偶尔吃一次，早晨起来反而会觉得没精神或者不舒服。这期间，我也担心营养不良，所以有意识的地多吃水果蔬菜和维生
+素，善存性价比不高，我觉得用民生药业的21合金维他来补充维生素就可以。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1784287-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>4</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">4</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16631237">2013-04-08</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>2 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1719467"
+data-atoken="16470937"
+data-collapsed="0"
+data-created="1364017368"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="3.1273453441"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1719467"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$wang-tao-92-69"
+class="zm-item-link-avatar"
+href="/people/wang-tao-92-69">
+<img src="http://p3.zhimg.com/06/f6/06f6bacac_s.jpg"
+class="zm-list-avatar"
+data-source="http://p3.zhimg.com/06/f6/06f6bacac_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$wang-tao-92-69" href="/people/wang-tao-92-69">王涛</a>，<strong title="无........" class="zu-question-my-bio">无........</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="2">
+
+<span class="voters">
+<a data-tip="p$t$zhong-cha-cha-90" href="http://www.zhihu.com/people/zhong-cha-cha-90" class="zg-link" title="钟叉叉">钟叉叉</a>、<a data-tip="p$t$yao-yue-49" href="http://www.zhihu.com/people/yao-yue-49" class="zg-link" title="姚跃">姚跃</a>
+</span>
+
+
+<span>赞同</span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">坚持下去。多吃素食，感觉晚餐多吃素食好些。<br><br>看看李开复老师的微博，他有一个介绍健康减肥的。他半年减了7KG多。<br><br>如果一个月减了10多斤，那也太不健康了。<br><br>还有一个就是肉紧，肉松的问题。同样的体重，有的人都是肌肉，看起来就瘦很多。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1719467-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>2</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">2</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16470937">2013-03-23</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1788480"
+data-atoken="16641597"
+data-collapsed="0"
+data-created="1365488907"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="2.1272014904"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1788480"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zhang-m-41-64"
+class="zm-item-link-avatar"
+href="/people/zhang-m-41-64">
+<img src="http://p3.zhimg.com/c3/0d/c30df565a_s.jpg"
+class="zm-list-avatar"
+data-source="http://p3.zhimg.com/c3/0d/c30df565a_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$zhang-m-41-64" href="/people/zhang-m-41-64">张敏</a>，<strong title="网页设计师" class="zu-question-my-bio">网页设计师</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="1">
+
+<span class="voters">
+<a data-tip="p$t$lin73" href="http://www.zhihu.com/people/lin73" class="zg-link" title="林修业">林修业</a>
+</span>
+
+
+<span>赞同</span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">我的身高和减肥前的体重跟你一样60-，·现在是54.7kg上下~正在维持·期待继续减·····我去年十一月分办的健身卡·从那开始减肥的，因为工作，一周会去三次健身房，都是快走，加坡度的，慢慢学会游泳，偶尔练一下器械，来回换着做·怕无聊·每次大概一两个小时···周末时间久一点会去上一下普拉提和瑜伽，还有我走路上班有将近六个月的时间···早晚半小时，快走的~~关于吃的，早饭吃得很好·薏米粥，全麦面包，当天运动的话会吃点蛋白·中午吃餐厅，会多要青菜吃·晚饭很少·还有重要的·我喝水很多··基本上一小时就会去接杯水喝·顺便锻炼锻炼胳膊腿~···我要说的是我减的也很慢···11月-1月之间基本上只掉了两三斤·而且还是吃一顿就回去的那种··当时就是忍着···因为是爱上去运动的感觉了···后来从1月开始·体重就明显下降了···一个月会有两三斤，到三月中旬基本上就是54.7上下了····最近因为搬家事太多没怎么去运动·但是在维持~最近想塑形了，再练普拉提·深蹲啥的··走路会不自觉地夹紧屁股···嘿嘿··希望对你有用，对于我们这种减肥很难见效果的人就需要支持和鼓舞，坚持就能见成效~~~
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1788480-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>1</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">1</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16641597">2013-04-09</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1795921"
+data-atoken="16659938"
+data-collapsed="0"
+data-created="1365648355"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="2.1271860976"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1795921"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$gu-li-91"
+class="zm-item-link-avatar"
+href="/people/gu-li-91">
+<img src="http://p1.zhimg.com/08/01/080114c25_s.jpg"
+class="zm-list-avatar"
+data-source="http://p1.zhimg.com/08/01/080114c25_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$gu-li-91" href="/people/gu-li-91">顾理</a>，<strong title="产品运营" class="zu-question-my-bio">产品运营</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="1">
+
+<span class="voters">
+<a data-tip="p$t$zhong-cha-cha-90" href="http://www.zhihu.com/people/zhong-cha-cha-90" class="zg-link" title="钟叉叉">钟叉叉</a>
+</span>
+
+
+<span>赞同</span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">减肥是我的硬伤。天天做办公室，从小就最讨厌运动。靠节食，貌似也是没什么效果了。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1795921-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>1</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">1</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16659938">2013-04-11</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="2661834"
+data-atoken="18763292"
+data-collapsed="0"
+data-created="1378457004"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="2.1260564701"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2661834"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$ira-wushi"
+class="zm-item-link-avatar"
+href="/people/ira-wushi">
+<img src="http://p4.zhimg.com/aa/b2/aab20eb09_s.jpg"
+class="zm-list-avatar"
+data-source="http://p4.zhimg.com/aa/b2/aab20eb09_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$ira-wushi" href="/people/ira-wushi">Ira Wushi</a>，<strong title="各美其美，美人之美，美美与共，天下大同。" class="zu-question-my-bio">各美其美，美人之美，美美与共，天下大同。</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="1">
+
+<span class="voters">
+<a data-tip="p$t$zhao-xiao-bai-4" href="http://www.zhihu.com/people/zhao-xiao-bai-4" class="zg-link" title="赵小白">赵小白</a>
+</span>
+
+
+<span>赞同</span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">正在减肥，目前已经进行到第三周，已经瘦了3斤，虽然体重上体现的不是很明显，但是胸（稍胖的女生减肥不要妄想不减胸，最先瘦的一定是胸←_←）、腰大腿都有明显瘦下来。看来活生生减得都是脂肪。<br><br>目前的方法是饮食控制+有计划的运动，十分不赞成节食减肥，上大学的时候膝盖受伤后胖了好多，节食减到受伤前的程度，上班以后又快速反弹，再按原来的方法实行也瘦不下去了，身体状态也不如以前了，真是处于喝凉水都长膘的阶段。<br><br>①工欲善其事必先利其器，装备和前期知识准备工作一定要做好。<br>相关的减肥知识建议买书或者网上搜集，知乎、薄荷网都是好选择，微博上的话，推荐“浪人王老汉”，相关的减肥知识很丰富。<br><br><br><b>装备</b>的话，<b>运动鞋</b>一定要准备好，自己买的nike air max，缓冲不错。衣服建议一定要买件快干衣，纯棉的T大量出汗以后黏在身上不仅容易感冒还极度影响运动心情。<br>在家运动的同学<b>心率表</b>要买一个，做有氧的时候很重要，心率控制在一定程度有氧运动才能有效减脂肪。还有<b>体脂仪，减肥主要是减脂肪，所以我觉得</b><b>体脂仪比体重器更重要，亚马逊有卖，一百多就能买到便携式的。</b><br><b>运动场地</b>方面，我是推荐在健身房的，之前自己也在家练过nike Training Club，但是一周三次都没能坚持下来，看见床就想躺啊TAT所以健身房真是鞭策的好地方，初次进健身房有条件的同学建议请一个靠谱的私教，不用买很多课，8节左右差不多了，之后可以自己练，但是请的私教一定要靠谱！！私教的好处是可以根据自己的实际情况制定相应的健身计划，我自己就是膝盖不好，左右肌肉力量不平衡，所以教练就针对我的实际情况制定了相应的计划。<br><br>②饮食方面要控制，早饭午饭吃好，晚饭要少吃，但不能不吃。<br>早饭：牛奶、包子（或者面包），鸡蛋<br>午饭：尽量避免太油腻的，少吃白米饭，吃点粗粮，玉米红薯什么的<br>晚饭：运动前一个小时吃两片全麦面包（有时候买不到就吃面包），酸奶<br>加餐：健身房运动后如果饿了，喝一瓶酸奶或者睡觉前四小时吃个玉米<br><br>③运动计划主要就是有氧+无氧器械+拉伸，自己膝盖不好，所以教练推荐的有氧运动是椭圆机。<br>热身：椭圆机10分钟<br>无氧：有私教课的情况下根据教练的安排练器械+徒手动作 1小时，没课的时候自己练器械动作30分钟左右<br>有氧：1~1.5小时的椭圆机<br><br>频率：一周练6天，休息一天。坚持不下来可以酌情减少，自己这阵子是有点丧心病狂了==\\\<br>周天：器械无氧 +有氧<br>周一：有氧<br>周二：器械无氧+有氧<br>周三：有氧<br>周四：器械无氧+心肺训练+有氧<br>周五：有氧
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2661834-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>1</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">1</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/18763292">2013-09-06</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="3128006"
+data-atoken="19859797"
+data-collapsed="0"
+data-created="1383620195"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="2.1256558825"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-3128006"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zheng-ke-zhu"
+class="zm-item-link-avatar"
+href="/people/zheng-ke-zhu">
+<img src="http://p3.zhimg.com/0e/8f/0e8f3b027_s.jpg"
+class="zm-list-avatar"
+data-source="http://p3.zhimg.com/0e/8f/0e8f3b027_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$zheng-ke-zhu" href="/people/zheng-ke-zhu">郑科宁</a>，<strong title="苦逼IT男" class="zu-question-my-bio">苦逼IT男</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="1">
+
+<span class="voters">
+<a data-tip="p$t$he-er-84" href="http://www.zhihu.com/people/he-er-84" class="zg-link" title="鹤儿">鹤儿</a>
+</span>
+
+
+<span>赞同</span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">减肥就是改变生活习惯，真正爱上运动，体重和曲线就是锦上添花的事了。<br>跑步半年了，身高173cm，体重从77kg降到了70kg，每月的跑量在60-70km，偶尔做做俯卧撑和仰卧起坐，有一段时间体重不降，但是能感觉到腰围明显在小。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="3128006-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>1</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">1</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/19859797">2013-11-05</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1754337"
+data-atoken="16557357"
+data-collapsed="0"
+data-created="1364787543"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="-1.8727303535"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1754337"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$anthony_lee"
+class="zm-item-link-avatar"
+href="/people/anthony_lee">
+<img src="http://p1.zhimg.com/39/91/399199197_s.jpg"
+class="zm-list-avatar"
+data-source="http://p1.zhimg.com/39/91/399199197_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$anthony_lee" href="/people/anthony_lee">Anthony Lee</a>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">本人男，179cm，最重的时候100kg，现在73kg，用时一年，减最多的时候每周-1kg，但是现在回首的确是有点过火了。坦白说，减肥还是少吃多动。楼主3个月1.5kg没啥不好的，况且其实减肥健身很多时候不能仅看体重，更要看线条，建议楼主不妨留意下腰围之类的其他数值，如果肌肉加多了，脂肪减少，体重是会上升的。慢慢来吧，持之以恒，总会有收获的。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1754337-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16557357">2013-04-01</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>2 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1755091"
+data-atoken="16559199"
+data-collapsed="0"
+data-created="1364799120"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1755091"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$kimstart"
+class="zm-item-link-avatar"
+href="/people/kimstart">
+<img src="http://p3.zhimg.com/46/d6/46d6385c3_s.jpg"
+class="zm-list-avatar"
+data-source="http://p3.zhimg.com/46/d6/46d6385c3_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$kimstart" href="/people/kimstart">流云</a>，<strong title="程序猿" class="zu-question-my-bio">程序猿</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">像<a class="member_mention" data-hash="d9551d090cbb4f179f83818bf78da114" href="http://www.zhihu.com/people/d9551d090cbb4f179f83818bf78da114" data-tip="p$b$d9551d090cbb4f179f83818bf78da114">@Chuck</a>一样，天天坐着，减个鬼啊。你说是不是？<br>我让他晚上不要吃饭，光吃一个苹果，他说受不了，那不是继续胖。<br>又不运动。。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1755091-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16559199">2013-04-01</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1756622"
+data-atoken="16562904"
+data-collapsed="0"
+data-created="1364822105"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.1272662707"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1756622"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$huidaoyiwu"
+class="zm-item-link-avatar"
+href="/people/huidaoyiwu">
+<img src="http://p3.zhimg.com/c6/63/c663fd809_s.jpg"
+class="zm-list-avatar"
+data-source="http://p3.zhimg.com/c6/63/c663fd809_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$huidaoyiwu" href="/people/huidaoyiwu">魏高竞</a>，<strong title="饰品配件,外贸" class="zu-question-my-bio">饰品配件,外贸</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">171cm，80kg<br>第二项柔韧性三个测试都合格，等更新。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1756622-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16562904">2013-04-01</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1785486"
+data-atoken="16634176"
+data-collapsed="0"
+data-created="1365424007"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1785486"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$liu-feng-87"
+class="zm-item-link-avatar"
+href="/people/liu-feng-87">
+<img src="http://p3.zhimg.com/9c/7c/9c7cf744c_s.jpg"
+class="zm-list-avatar"
+data-source="http://p3.zhimg.com/9c/7c/9c7cf744c_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$liu-feng-87" href="/people/liu-feng-87">刘峰</a>，<strong title="电子设计/游戏爱好者" class="zu-question-my-bio">电子设计/游戏爱好者</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">减肥就是不能同情自己，一定要坚守当初减肥的原则。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1785486-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16634176">2013-04-08</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1785519"
+data-atoken="16634258"
+data-collapsed="0"
+data-created="1365424544"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1785519"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$li-xin-88-86"
+class="zm-item-link-avatar"
+href="/people/li-xin-88-86">
+<img src="http://p3.zhimg.com/5f/fa/5ffa38ac5_s.jpg"
+class="zm-list-avatar"
+data-source="http://p3.zhimg.com/5f/fa/5ffa38ac5_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$li-xin-88-86" href="/people/li-xin-88-86">李鑫</a>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">找到适合自己的，可以坚持下去的方法，让减肥变成一种生活习惯。<br>减肥的关键在“控制”，控制情绪，控制食物什么的。<br>我从3月初的73kg到现在减到63kg，中间反弹过（反弹是正常的），但是还在坚持。目标50kg。<br>我相信自己会成功的，因为我会坚持行动。<br>方法是：<br>1、心情平和喜乐<br>2、少吃，强烈建议不吃晚饭<br>3、规律运动<br>祝成功！
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1785519-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16634258">2013-04-08</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1789869"
+data-atoken="16645008"
+data-collapsed="0"
+data-created="1365508771"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1789869"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$wang-yi-50-45"
+class="zm-item-link-avatar"
+href="/people/wang-yi-50-45">
+<img src="http://p3.zhimg.com/03/20/0320ba6b3_s.jpg"
+class="zm-list-avatar"
+data-source="http://p3.zhimg.com/03/20/0320ba6b3_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$wang-yi-50-45" href="/people/wang-yi-50-45">王一</a>，<strong title="帝都苦求学，书中愿藏娇。" class="zu-question-my-bio">帝都苦求学，书中愿藏娇。</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">多运动，善饮食。我去年夏天（2.5个月）一周游泳一次（1.5小时）+打篮球一次（3小时）从144减到124。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1789869-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16645008">2013-04-09</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1793027"
+data-atoken="16652803"
+data-collapsed="0"
+data-created="1365576655"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.1271930147"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1793027"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$li-zhen-hua-94"
+class="zm-item-link-avatar"
+href="/people/li-zhen-hua-94">
+<img src="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg"
+class="zm-list-avatar"
+data-source="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$li-zhen-hua-94" href="/people/li-zhen-hua-94">李振华</a>，<strong title="软件工程师" class="zu-question-my-bio">软件工程师</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">现在有一种通过DNA测试你 适合哪种减肥方法。不过成本比较高。<br>简单地说，有些人是糖质过高的的体质，那么通过进行合适的减糖食谱，经过一段时间就会起到不错的效果。而有些人是脂质过高（这个跟糖质过高是有区别的），那么，少吃肥肉等就可以控制体重。<br>所以，有些人怎么吃都胖的，像我，就是属于糖质型的，我是属于吃肉不会胖，但是多吃两个甜甜圈就容易发胖的人。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1793027-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16652803">2013-04-10</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1798684"
+data-atoken="16666757"
+data-collapsed="0"
+data-created="1365690990"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.12718"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1798684"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+<h3 class="zm-item-answer-author-wrap">匿名用户</h3></div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">81KG减到75Kg了，然后3个月都是这个体重，减不动了。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1798684-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16666757">2013-04-11</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>3 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1827000"
+data-atoken="16736639"
+data-collapsed="0"
+data-created="1366280639"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.12713"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1827000"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$cao-xiao-bo"
+class="zm-item-link-avatar"
+href="/people/cao-xiao-bo">
+<img src="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg"
+class="zm-list-avatar"
+data-source="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$cao-xiao-bo" href="/people/cao-xiao-bo">曹晓博</a>，<strong title="资深代笔" class="zu-question-my-bio">资深代笔</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">减肥没有那么难，难的是坚持一种新的生活方式。<br>我165近十年一直在53KG左右，但是之前曾经很胖过，后来所有的衣服都不能穿了。<br>其实比较简单的就是白天适当的增加些运动，可能是上学上班多走几站地，可能是周末打打羽毛球，游泳之类，要坚持而不要特意难为自己。<br>饮食上记得少荤多素，8成饱，晚上少吃就好，慢慢培养成习惯就不会觉得辛苦。<br>我的目标是40岁的时候还穿现在的号码，就看生孩子会不会影响太大了。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1827000-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16736639">2013-04-18</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="1719842"
+data-atoken="16471795"
+data-collapsed="0"
+data-created="1364024189"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="-0.8726553303"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1719842"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$lu-lu-er"
+class="zm-item-link-avatar"
+href="/people/lu-lu-er">
+<img src="http://p1.zhimg.com/c8/1f/c81fde547_s.jpg"
+class="zm-list-avatar"
+data-source="http://p1.zhimg.com/c8/1f/c81fde547_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$lu-lu-er" href="/people/lu-lu-er">路路儿</a>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="1">
+
+<span class="voters">
+<a data-tip="p$t$Xieyiyao" href="http://www.zhihu.com/people/Xieyiyao" class="zg-link" title="谢一瑶">谢一瑶</a>
+</span>
+
+
+<span>赞同</span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">三个月减1.5公斤应该还是比较正常的速度，本人从120斤减到100斤差不多花了四年，慢慢减会比较不损害健康并且不容易反弹，要有耐心啊。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1719842-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>1</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">1</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/16471795">2013-03-23</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>5 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="2184665"
+data-atoken="17615846"
+data-collapsed="0"
+data-created="1371880665"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.1266121009"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2184665"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$yu-ke-xin"
+class="zm-item-link-avatar"
+href="/people/yu-ke-xin">
+<img src="http://p4.zhimg.com/c0/ad/c0ad815bd_s.jpg"
+class="zm-list-avatar"
+data-source="http://p4.zhimg.com/c0/ad/c0ad815bd_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$yu-ke-xin" href="/people/yu-ke-xin">俞可歆</a>，<strong title="健身房是新欢 厨房是永远的爱" class="zu-question-my-bio">健身房是新欢 厨房是永远的爱</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">我来回答补充问题一吧。的确会遇到平台期，打破平台的方法就是改变运动形式或者加大运动量。你现在在跳PIU的话以后不妨试试Insanity，强度大很多。另外建议你加一些力量训练，从根本上增加代谢消耗。有条件可以去健身房练器械，没条件就在家俯卧撑、深蹲、仰卧起坐、举水瓶。最后的最后就是坚持，只要保证消耗＞摄入就一定会瘦。加油！
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2184665-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/17615846">2013-06-22</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="2248915"
+data-atoken="17774422"
+data-collapsed="0"
+data-created="1372900603"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2248915"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$lin-xi-89-34"
+class="zm-item-link-avatar"
+href="/people/lin-xi-89-34">
+<img src="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg"
+class="zm-list-avatar"
+data-source="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$lin-xi-89-34" href="/people/lin-xi-89-34">林夕</a>，<strong title="健康100保健品 www.bjp100.com" class="zu-question-my-bio">健康100保健品 <a href="http://www.bjp100.com" class=" external" target="_blank" rel="nofollow"><span class="invisible">http://www.</span><span class="visible">bjp100.com</span><span class="invisible"></span><i class="icon-external"></i></a></strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">定期运动，长期坚持，还可以给自己制定一个减肥食谱。<br>参考资料：<a href="http://www.bjp100.com/baike/201328-195.html" class=" wrap external" target="_blank" rel="nofollow">制定科学的蛋白质减肥食谱<i class="icon-external"></i></a>
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2248915-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/17774422">2013-07-04</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="2292799"
+data-atoken="17883270"
+data-collapsed="0"
+data-created="1373558155"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2292799"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$gao-gao-51"
+class="zm-item-link-avatar"
+href="/people/gao-gao-51">
+<img src="http://p3.zhimg.com/6a/ee/6aeeb0fbe_s.jpg"
+class="zm-list-avatar"
+data-source="http://p3.zhimg.com/6a/ee/6aeeb0fbe_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$gao-gao-51" href="/people/gao-gao-51">高篙</a>，<strong title="努力拥有完美人生" class="zu-question-my-bio">努力拥有完美人生</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">首先要减肥 早饭和午饭是必须要吃的 晚饭在五点左右吃最好 在教你一个好方法 晚上吃饭的时候要多吃生菜如（黄瓜 生菜 苦瓜 柿子椒）记住要生吃 吃完这些东西在吃主食 晚上十一点之前要睡觉  定期排排毒 人体有很多毒素 把毒素排出也很有效 建议在网上看看（毒垢与疾病）这个视频
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2292799-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/17883270">2013-07-11</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="2434748"
+data-atoken="18218188"
+data-collapsed="0"
+data-created="1375734495"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2434748"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+<h3 class="zm-item-answer-author-wrap">匿名用户</h3></div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">我原先比你重一点。。过年的原因体重飙到63.5kg，到今年3月份的时候被隔壁室友硬拉着减肥，先开始是劲走一个小时+晚饭只有一个苹果一杯酸奶，一个月多后把运动改成每天跳绳1000个，晚饭仍然是水果+酸奶，就这样坚持到了6月份考试周，体重变为57，由于考试周要啃书就多补了点营养~所以重了一点点，现在暑假一个月了懒在家也没运动，只是晚饭少吃了点，体重一直保持在57.5，不过我觉得也是到了平台期了，准备过段时间再减吧~
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2434748-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/18218188">2013-08-06</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="2585590"
+data-atoken="18580474"
+data-collapsed="0"
+data-created="1377575659"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2585590"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$jinhao"
+class="zm-item-link-avatar"
+href="/people/jinhao">
+<img src="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg"
+class="zm-list-avatar"
+data-source="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$jinhao" href="/people/jinhao">金浩</a>，<strong title="某外企程序员，六年Python经验，爱好运动，看书，旅游。" class="zu-question-my-bio">某外企程序员，六年Python经验，爱好运动…</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">参考我在另一个问题的答案：<a class="internal" href="http://www.zhihu.com/question/19681562/answer/18579645">怎么减肥？</a>
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2585590-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/18580474">2013-08-27</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="2693255"
+data-atoken="18795985"
+data-collapsed="0"
+data-created="1378713112"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.1260378691"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2693255"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$monsterzhang"
+class="zm-item-link-avatar"
+href="/people/monsterzhang">
+<img src="http://p3.zhimg.com/aa/79/aa79b2a4a_s.jpg"
+class="zm-list-avatar"
+data-source="http://p3.zhimg.com/aa/79/aa79b2a4a_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$monsterzhang" href="/people/monsterzhang">monsterzhang</a>，<strong title="剥去理想主义彩色外套的现实主义者" class="zu-question-my-bio">剥去理想主义彩色外套的现实主义者</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">个人体会主要有三点：规律生活、控制饮食、加强锻炼。<br><br>说点自己在美国学习期间的经历和经验。实现的结果就是体重控制在140左右（我身高174），标准游泳身材很结实，总结起来主要是以下几个方面，供楼主参考：<br><ul><li>饮食方面：</li></ul><ol><li>坚持自己做饭，少在外面吃（这点在国内比较难做到）；<br></li><li>饮食摄入均衡，每天做饭内容和吃饭量不刻意控制（我特别能吃肉，全部为牛羊肉，但是做的时候少放油，一年只吃了1.5L油）；<br></li><li>早餐一定要吃饱，别怕多（早餐是一天的关键，特别对于早起的人而言，我早晨有时会喝1L酸奶，吃花生酱和鸡蛋等等）；<br></li><li>晚上一般会相对少；</li></ol><ul><li>生活规律：</li></ul><ol><li>晚上10点睡觉，早晨5点半或6点起床；<br></li><li>提高每天的学习效率，不拖延，按时睡觉；<br></li><li>中午饭14点，晚上吃饭大约在19点；<br></li></ol><ul><li>坚持锻炼：</li></ul><ol><li>周一到周五每天中午12点半到1点半游泳，2500m左右，游完吃午饭；<br></li><li>一周争取去两次健身房，做做力量；<br></li><li>周末有时间去玩帆船、打球或者跑步；<br></li></ol><br>回国后依然有锻炼，自己也喜欢运动，但是国内事情太多太杂，最难保证的就是规律的生活。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2693255-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/18795985">2013-09-09</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="2777552"
+data-atoken="19003193"
+data-collapsed="0"
+data-created="1379904654"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2777552"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$nan-er-95"
+class="zm-item-link-avatar"
+href="/people/nan-er-95">
+<img src="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg"
+class="zm-list-avatar"
+data-source="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$nan-er-95" href="/people/nan-er-95">楠而</a>，<strong title="好的开始是成功的一半" class="zu-question-my-bio">好的开始是成功的一半</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">有氧运动是最有利健康的减肥方法呀
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2777552-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/19003193">2013-09-23</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="2777672"
+data-atoken="19003490"
+data-collapsed="0"
+data-created="1379905505"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.1259428687"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2777672"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$an-ni-56-20"
+class="zm-item-link-avatar"
+href="/people/an-ni-56-20">
+<img src="http://p1.zhimg.com/3b/c0/3bc05adbf_s.jpg"
+class="zm-list-avatar"
+data-source="http://p1.zhimg.com/3b/c0/3bc05adbf_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$an-ni-56-20" href="/people/an-ni-56-20">安霓</a>，<strong title="俗人" class="zu-question-my-bio">俗人</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">166最胖120 现 108 体重稳定 现在开始做一些拉伸了 大约六个月吧<br>个人经验是 若想健康的瘦下去 就要改变自己的生活习惯<br>我觉得 每个生活习惯会对应相应的体重。如果你现在偏胖可能就是生活习惯的问题。<br>我瘦的非常慢。但是没有出现任何的不适症状。胸部还上了一个cup= =<br>改变的生活习惯有<br>1 晚餐吃得很少。基本就是一些青菜 或者一些水果 或者一碗粥。如果太饿我也会吃多一些 不会太逼迫自己。但是睡觉的时候基本都是肚子空空<br>2从不运动到经常运动 运动不剧烈。跑步尽量到30+min 但是个别累的时候也会20分钟就停下来。出点汗就蛮好。<br>3基本每天都喝酸奶。每天早晨便便。。这也是个很好的习惯我觉得。<br>4 吃饭8分饱 撑了会从满足到难受。<br>其他的都没有改。什么都吃。保证油脂蛋白的摄入量。碳水化合物的摄入量。<br>现在还在继续这种生活状态。<br>个人表示是通过很多次减肥得出来的最健康的减肥方式<br>额 不过减得真的很慢。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2777672-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/19003490">2013-09-23</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="2858311"
+data-atoken="19200206"
+data-collapsed="0"
+data-created="1380968165"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="-1.8741406008"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2858311"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$liu-mei-li-85"
+class="zm-item-link-avatar"
+href="/people/liu-mei-li-85">
+<img src="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg"
+class="zm-list-avatar"
+data-source="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$liu-mei-li-85" href="/people/liu-mei-li-85">刘美丽</a>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">健康有效的减肥方法应该是运动+<a href="http://www.woyaojianjianfei.com/forum-46-1.html" class=" wrap external" target="_blank" rel="nofollow">饮食减肥-我要减减肥<i class="icon-external"></i></a> 才是最有效的而且一定要坚持要有减肥的毅力
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2858311-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/19200206">2013-10-05</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="2910857"
+data-atoken="19330098"
+data-collapsed="0"
+data-created="1381486538"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2910857"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zhang-zhi-gang-28"
+class="zm-item-link-avatar"
+href="/people/zhang-zhi-gang-28">
+<img src="http://p4.zhimg.com/51/61/51614bb08_s.jpg"
+class="zm-list-avatar"
+data-source="http://p4.zhimg.com/51/61/51614bb08_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$zhang-zhi-gang-28" href="/people/zhang-zhi-gang-28">张志钢</a>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">根据我个人的成果经验，减肥没有捷径，既然是减肥，就是做减法，最直接的方法就是节食，说控制饮食也可以，个人最快纪录是5天——5kg。5天时间不进食，只是饮水，最好是柠檬水可以减少饥饿感。一定要有自我控制能力，管住嘴，就这么简单，禁油、糖、淀粉。。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2910857-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/19330098">2013-10-11</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="2940845"
+data-atoken="19404545"
+data-collapsed="0"
+data-created="1381801675"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2940845"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$lao-na-62"
+class="zm-item-link-avatar"
+href="/people/lao-na-62">
+<img src="http://p2.zhimg.com/fa/57/fa576d25f_s.jpg"
+class="zm-list-avatar"
+data-source="http://p2.zhimg.com/fa/57/fa576d25f_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$lao-na-62" href="/people/lao-na-62">老衲</a>，<strong title="生食减肥 坚持快走运动" class="zu-question-my-bio">生食减肥 坚持快走运动</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix"><noscript><img src="http://p1.zhimg.com/03/d2/03d26f5f2eecd10fea8e6215d9db163f_m.jpg" data-rawwidth="415" data-rawheight="692" class="content_image" width="415"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="415" data-rawheight="692" class="content_image lazy" width="415" data-actualsrc="http://p1.zhimg.com/03/d2/03d26f5f2eecd10fea8e6215d9db163f_m.jpg">
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2940845-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/19404545">2013-10-15</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="2951105"
+data-atoken="19429908"
+data-collapsed="0"
+data-created="1381902716"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2951105"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$xiao-xiao-76-50"
+class="zm-item-link-avatar"
+href="/people/xiao-xiao-76-50">
+<img src="http://p1.zhimg.com/98/c4/98c450161_s.jpg"
+class="zm-list-avatar"
+data-source="http://p1.zhimg.com/98/c4/98c450161_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$xiao-xiao-76-50" href="/people/xiao-xiao-76-50">小小</a>，<strong title="小小" class="zu-question-my-bio">小小</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">郑多燕的减肥操我试过确实挺有用的！
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2951105-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/19429908">2013-10-16</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="2981452"
+data-atoken="19505040"
+data-collapsed="0"
+data-created="1382201509"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2981452"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$jia-yi-76"
+class="zm-item-link-avatar"
+href="/people/jia-yi-76">
+<img src="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg"
+class="zm-list-avatar"
+data-source="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$jia-yi-76" href="/people/jia-yi-76">加仪</a>，<strong title="(^_?)?☆" class="zu-question-my-bio">(^_?)?☆</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">暑假兩月，堅持游泳，每日五百，二十分鐘，沒感到瘦！
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2981452-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/19505040">2013-10-20</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>1 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="2994253"
+data-atoken="19535918"
+data-collapsed="0"
+data-created="1382347470"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2994253"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$qiao-chu-34"
+class="zm-item-link-avatar"
+href="/people/qiao-chu-34">
+<img src="http://p1.zhimg.com/60/aa/60aa508d2_s.jpg"
+class="zm-list-avatar"
+data-source="http://p1.zhimg.com/60/aa/60aa508d2_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$qiao-chu-34" href="/people/qiao-chu-34">翘楚</a>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">管住嘴巴，迈开腿，最重要的是进入你身体的食物,碳水化合物这些东西尤其注意<br>我就在减肥肉肉先靠饮食，大基数体重下来了就靠运动塑性，女孩子嘛，对了，像我就是干脆不吃米饭碳水化合物，而且每天喝一些谷物粉，吃蔬菜自己拌沙拉，水果也不断，总之不吃米面油糖   = = ps:有点小痛苦，不过看着体重往下走，人家说哇，脸小了哎，就值得，还有每天晚上散步半个小时到一个小时 然后小区健身器材在上面玩一会（真的是玩= =有点不负责任的感觉?ω?）根据自己生活的节奏  找到适合自己并且有效的方法，对了工作的话每天注意坐的姿势= = 下面我找了几个果蔬看看吧。<br><p>减肥水果之瘦大腿冠军——白萝卜</p><p>像骆驼的驼峰是为了给身体储存养料一样，更多分享尽在卧龙网大腿也是人体用来储备能量以备不时之需的“仓库”，所以特别容易堆积脂肪。多吃些白萝卜吧！它含有的辛辣成分 ——芥子油能够促进脂肪类物质更好地进行新陈代谢，避免脂肪在皮下堆积。这个功能，是任何一种蔬菜和水果都比不上的，对付大腿脂肪也是最合适不过的。</p><p>减肥水果之瘦背冠军——葡萄柚</p><p>背部赘肉的增加，大多是因为体内的血糖被吸收，进而转化成脂肪，因此，想减掉它们就要从“糖”入手。这时，选择葡萄柚是再合适不过的，它不但热量极低，而且富含特殊的酶，能影响人体吸收糖分，使其不再轻易地转化成脂肪。</p><p>减肥水果之瘦小腹冠军——番茄</p><p>饭前吃番茄有助减少小腹脂肪堆积，肠道中堆积了太多的废物，就容易形成小肚腩。番茄富含食物纤维，可以吸收肠道内多余的脂肪，将油脂和毒素排出体外。饭前吃一个番茄，还可以阻止脂肪被肠道吸收。长期坚持，你便会远离小肚腩的烦恼。</p>
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2994253-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/19535918">2013-10-21</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="2995785"
+data-atoken="19539008"
+data-collapsed="0"
+data-created="1382358047"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2995785"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$wang-yan-xi-93"
+class="zm-item-link-avatar"
+href="/people/wang-yan-xi-93">
+<img src="http://p3.zhimg.com/bf/56/bf567fbf0_s.jpg"
+class="zm-list-avatar"
+data-source="http://p3.zhimg.com/bf/56/bf567fbf0_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$wang-yan-xi-93" href="/people/wang-yan-xi-93">王颜曦</a>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">刚开始减的时候每天严格只吃早饭，一般就是一个饼加一个鸡蛋加一个牛奶，然后晚上跳一节郑多燕，半年大概瘦了20多斤，然后放暑假因为没太有节制胖了五六斤，后来这学期又开始只吃早饭，不过午饭和晚饭偶尔会吃一点儿但不会多，然后因为很多原因基本每周周末都要出去吃顿大餐，不过体重基本能稳定住，两个月瘦了15斤左右。总之还是节食加运动最有效果。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2995785-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/19539008">2013-10-21</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="3091861"
+data-atoken="19776720"
+data-collapsed="0"
+data-created="1383282332"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.1256814408"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-3091861"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$liu-fa-yi"
+class="zm-item-link-avatar"
+href="/people/liu-fa-yi">
+<img src="http://p1.zhimg.com/f8/d8/f8d8deaf8_s.jpg"
+class="zm-list-avatar"
+data-source="http://p1.zhimg.com/f8/d8/f8d8deaf8_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$liu-fa-yi" href="/people/liu-fa-yi">刘法医</a>，<strong title="恨铁不成钻" class="zu-question-my-bio">恨铁不成钻</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">蹭树
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="3091861-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/19776720">2013-11-01</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="3101254"
+data-atoken="19796915"
+data-collapsed="0"
+data-created="1383364913"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="-1.8743248124"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-3101254"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$cathel-zhao"
+class="zm-item-link-avatar"
+href="/people/cathel-zhao">
+<img src="http://p4.zhimg.com/2b/30/2b3085e76_s.jpg"
+class="zm-list-avatar"
+data-source="http://p4.zhimg.com/2b/30/2b3085e76_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$cathel-zhao" href="/people/cathel-zhao">cathel zhao</a>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">在学校的时候身高165cm，体重60公斤有多，工作两年后，体重在51至55间徘徊，莫名掉肉，原因总结如下：工作期间禁止吃零食，所以零食量大大减少了；谈恋爱，出去玩的时间多，宅的时间少了；上夜班饮食不规律，早饭不再是必需品
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="3101254-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/19796915">2013-11-02</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="3129202"
+data-atoken="19862821"
+data-collapsed="0"
+data-created="1383627122"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-3129202"></a>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$jiang-hua-37"
+class="zm-item-link-avatar"
+href="/people/jiang-hua-37">
+<img src="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg"
+class="zm-list-avatar"
+data-source="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$jiang-hua-37" href="/people/jiang-hua-37">江画</a>，<strong title="我要努力，为了我的目标" class="zu-question-my-bio">我要努力，为了我的目标</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="530299" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">少吃和运动呀。不要吃完就坐下呀
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="3129202-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<a href="#" class="meta-item votenum-mobile zm-item-vote-count "><span>0</span><i class="zg-icon arrow"></i></a>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/20874441/answer/19862821">2013-11-05</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+
+
+<a href="#" class="more-actions meta-item zu-autohide"><i class="zg-icon zg-icon-ellipsis-mobi"></i><span class="hide-text">更多</span></a>
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+
+</div>
+
+<div id="zh-question-collapsed-link" class="zu-question-collap-title" style="display:" >
+<a href="javascript:;" name="expand" class="zg-link-gray" id="zh-question-collapsed-switcher">
+<span id="zh-question-collapsed-num">1</span> 个回答被折叠
+</a>
+（<a target="_blank" href="http://www.zhihu.com/question/20120168" class="zg-link-gray">为什么？</a>）
+</div>
+<div id="zh-question-collapsed-wrap" class="zh-question-answer-wrapper" style="display:none"></div>
+<a name="draft"></a>
+<div id="zh-question-answer-form-wrap" class="zh-question-answer-form-wrap" data-isabout="0">
+<div class="zm-editable-tip"></div>
+<div class="zm-editable-content"></div>
+</div>
+
+<div id="answer-my-question-tip" style="display:none;margin-top:10px;">
+<h4>感谢在知乎写下对他人困惑的思考，你在知乎的第一个回答已成功提交。</h4>
+每位用户提交的第一个回答会进入「<a href="http://www.zhihu.com/debuts/">首场秀</a>」页面。只要你的回答足够精彩，很可能将一举成为社区的焦点哦。<br>
+用户通过点击「赞同」/「反对」按钮（在每个回答的左侧）来筛选高质量内容，使得有价值的回答的排序更靠前。尽可能提供详细的解释和说明的回答对他人更有帮助。<br>
+在知乎，认真的人才能赢。问题有千千万万，试着探索哪些将构建新的你。
+</div>
+
+
+<!-- end of content -->
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="530299">关注</button>
+
+<div class="zg-btn-white" id="zh-question-operation-menu"
+>
+<i class="zg-icon-dropdown-menu zg-icon"></i><b class="hide-text">设置</b>
+</div>
+
+
+</div>
+</div>
+
+
+
+<div class="shameimaru-placeholder" data-class="QuestionShameimaruV2" data-params='{&quot;token&quot;:20874441}'></div>
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>相关问题</h3>
+<ul id="zh-question-related-questions" class="zh-question-related-questions">
+
+<li><a class="question_link" href="/question/20832671">健康的减肥速度是怎样的？</a> <span class="num">14 个回答</span></li>
+
+<li><a class="question_link" href="/question/19681562">怎么减肥？</a> <span class="num">78 个回答</span></li>
+
+<li><a class="question_link" href="/question/19988280">女生如何健康有效的减去肌肉？</a> <span class="num">15 个回答</span></li>
+
+<li><a class="question_link" href="/question/20588656">节食减肥是徒劳吗？为什么？</a> <span class="num">111 个回答</span></li>
+
+<li><a class="question_link" href="/question/20690357">如何减肥才有效？</a> <span class="num">25 个回答</span></li>
+
+</ul>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>分享问题</h3>
+<div id="zh-question-webshare-container" data-title="分享问题" data-type="question" data-id="530299" data-url-token="20874441" class="zh-question-webshare-links clearfix">
+<a href="#" name="sina"><i class="zg-icon zg-icon-webshare-weibo"></i>微博</a>
+
+<a href="#" name="letter"><i class="zg-icon zg-icon-webshare-letter"></i>站内私信</a>
+</div>
+<div style="display:none">
+<div id="zh-webshare-dialog" class="zh-webshare-dialog">
+<ul class="tab-navs">
+<li class="tab-nav active">
+<a href="javascript:;" id="tb-webshare-sina">微博分享</a>
+</li>
+
+<li class="tab-nav">
+<a href="javascript:;" id="tb-webshare-letter">站内信分享</a>
+</li>
+</ul>
+<div class="zm-tab-content weibo-panel" id="tb-webshare-sina-content">
+<div class="zg-section">
+<label>
+<input data-bindurl="/oauth/auth/sina?next=/oauth/callback" class="sina-checkbox" type="checkbox" />
+<span class="zg-ico-sina"></span> 新浪微博</label>
+<label>
+<input data-bindurl="/oauth/auth/qq?next=/oauth/callback" class="qq-checkbox" type="checkbox" />
+<span class="zg-ico-qq"></span> 腾讯微博</label>
+</div>
+<div class="zg-section">
+<div class="zg-form-text-input">
+<textarea style="width:100%" id="zh-webshare-sina-pm"></textarea>
+</div>
+</div>
+<div class="zm-command">
+<div class="zm-item-meta zg-left">
+<span id="zg-webshare-sina-counter">还可以输入 140字</span>
+</div>
+<a class="zm-command-cancel" name="cancel" href="javascript:;">取消</a>
+<a class="zg-btn-blue weibo-share-button" name="send_sina" href="javascript:;">发布</a>
+</div>
+</div>
+<div class="zm-tab-content" id="tb-webshare-mail-content" style="display: none;">
+<dl class="zm-form-table zm-form-table-medium">
+<dt class="zm-form-table-head zm-form-table-head-align-middle">
+<label for="user-name" class="zg-medium-gray">收件人：</label>
+</dt>
+<dd class="zm-form-table-field">
+<input class="zg-form-text-input" type="email" id="zh-webshare-mail-reciiver"/>
+</dd>
+<dt class="zm-form-table-head zm-form-table-head-align-middle">
+<label for="zh-webshare-mail-content" class="zg-medium-gray">内容：</label>
+</dt>
+<dd class="zm-form-table-field">
+<div class="zg-form-text-input">
+<textarea style="width:100%" id="zh-webshare-mail-content"></textarea>
+</div>
+</dd>
+</dl>
+<div class="zm-command">
+<a class="zm-command-cancel" name="cancel" href="javascript:;">取消</a>
+<a class="zg-r3px zg-btn-blue" name="send_mail" href="javascript:;">发送</a>
+</div>
+</div>
+<div id="tb-webshare-letter-content" class="zm-tab-content" style="display: none;"></div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>问题状态</h3>
+<div class="zg-gray-normal">
+最近活动于 <span class="time">02:53</span>
+<span class="zg-bull">&bull;</span>
+<a href="/question/20874441/log">查看问题日志</a>
+</div>
+<div class="zg-gray-normal">
+被浏览 <strong>65924</strong> 次，相关话题关注者 <strong>265121</strong> 人
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+</div>
+<div class="zg-clear"></div>
+</div>
+
+
+<div id="zh-footer" class="zu-footer">
+<div class="zg-wrap zu-footer-inner">
+<div class="zg-left">
+<a href="/read" class="zg-link-gray-14">知乎阅读</a>
+</div>
+<a href="/jobs" class="zg-link-gray-14">加入知乎</a>
+<span class="zg-bull">&bull;</span>
+<a href="/question/19581624" target='_blank' class="zg-link-gray-14">知乎指南</a>
+<span class="zg-bull">&bull;</span>
+<a href="javascript:;" class="zg-link-gray-14 zg-report" id="js-feedback-button">建议反馈</a>
+<span class="zg-bull">&bull;</span>
+<a href="/terms" target="_blank" class="zg-link-gray-14">知乎协议</a>
+<span class="zg-bull">&bull;</span>
+<span>&copy; 2014 知乎</span>
+</div>
+</div>
+<div style="display:none">
+<div id="zh-add-question-wrap" class="zh-add-question-form">
+<div class="js-add-question-splash add-question-splash-page" >
+<p>
+知乎是一个真诚、友善、认真、互助的社区<br>
+我们希望每一个疑惑都有解答，好的问题更容易得到好答案 <a href="//www.zhihu.com/question/19555761">如何提一个好问题？</a>
+</p>
+<p>
+<b>提问应遵循真实、客观、简洁、明确、规范的原则</b><br>
+1、提问应尽可能简洁明了，避免「请问」「有谁知道」「谢谢！」等与问题本身无关的附加语。<br>
+2、应避免使用「为神马」「童鞋」「肿么办」等网络用语。<br>
+3、基于个人判断或传言的问题，在提问时应在补充说明里详细说明原由<br>
+4、避免太宽泛问题，如调查性的问题容易变成每个人都可以发表观点，但对其他人没有价值。<br>
+</p>
+<p>
+<b>知乎禁止这些提问</b><br>
+1、和已有问题完全重复的问题，<b>为避免重复，提问前可以先进行搜索</b><br>
+2、招聘 / 求职、交易 / 合作、寻人 / 征友、召集 / 赠送、求码类内容<br>
+3、投票类问题。例如：你支持方舟子还是韩寒？<br>
+4、作业或其他希望代为完成个人任务类的内容，以及针对个人具体病情的求医问药类问题<br>
+完整的提问建议可查看 <a href="//www.zhihu.com/question/19806261">知乎的提问规范有哪些？</a><br>
+</p>
+<div class="before-ask-form">
+<b>提问前请先搜索</b>
+<div style="position:relative;margin-top:18px;">
+<input type="text" class="zg-form-text-input" id="js-before-ask" placeholder="请输入你的问题">
+</div>
+</div>
+</div>
+<form class="js-add-question-form">
+<div class="zg-section-big clearfix">
+<div id="zm-modal-dialog-info-wrapper"></div>
+<div style="display: none;position: relative;" id="zm-modal-dialog-warnmsg-wrapper"><div class="zm-modal-dialog-warnmsg zm-modal-dialog-guide-warn-message zg-r5px"></div>
+<a name="close" title="关闭" href="javascript:;" class="zu-global-notify-close" style="display:none">x</a>
+<span class="zm-modal-dialog-guide-title-msg"></span>
+</div>
+<div class="zg-form-text-input add-question-title-form" style="position: relative;">
+<textarea class="zg-editor-input" title="在这里输入问题" id="zh-question-suggest-title-content"></textarea>
+</div>
+<span id="js-title-length-err-msg" class="title-length-err-msg zg-right"></span>
+<div id="zh-question-suggest-ac-wrap" class="question-suggest-ac-wrap"></div>
+</div>
+<div class="zg-section-big">
+<div style="display: none;position: relative;" class="zm-modal-dialog-warnmsg-wrapper">
+<div class="zm-modal-dialog-warnmsg zm-modal-dialog-guide-warn-message zg-r5px"></div>
+<a name="close" title="关闭" href="javascript:;" class="zu-global-notify-close" style="display:none">x</a>
+<span class="zm-modal-dialog-guide-title-msg"></span>
+</div>
+<div class="add-question-section-title">
+
+问题说明（可选）：
+<span id="zh-question-form-detail-err"></span>
+</div>
+<div id="zh-question-suggest-detail-container">
+<div class="zm-editable-content" data-disabled="1"></div>
+</div>
+</div>
+<div class="zm-add-question-form-topic-wrap">
+<div class="add-question-section-title">
+
+选择话题：
+<span id="zh-question-form-tag-err"></span>
+</div>
+<div style="" id="zh-question-suggest-topic-container" class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels"></div>
+<div id="zh-question-suggest-autocomplete-container"></div>
+</div>
+</div>
+<div class="zm-command">
+<label class="zm-question-form-hide-in-about-question-el zg-left">
+<input type="checkbox" value="1" class="zg-addq-isanon">匿名
+<span class="zm-question-form-split">&nbsp;</span>
+</label>
+<div class="zg-left zm-add-question-form-sns-wrap">
+<span>分享到</span>
+</div>
+<a href="javascript:;" name="cancel" class="zm-command-cancel">取消</a>
+<a href="javascript:;" name="addq" class="zg-r5px zu-question-form-add zg-btn-blue">发布</a>
+<a href="" name="jumpq" class="zg-r5px zg-btn-blue zu-question-form-jump" style="display:none;">查看问题</a>
+</div>
+</form>
+</div>
+
+</div>
+<script type="text/x-template" id="tmpl-feedback-form">
+<div id="zh-feedback-form">
+<select name="type" class="zg-editor-type zg-right">
+<option value="help">使用帮助 </option>
+<option value="bug">问题反馈</option>
+<option value="suggest">功能建议</option>
+</select>
+<div class="zg-report-title">
+<span class="zg-gray-darker">请填写你的反馈内容</span>
+<span class="zg-report-msg" style="display:none;">请选择反馈种类：</span>
+</div>
+<div class="zg-editor-simple-wrap zg-form-text-input zg-report-content">
+<textarea class="zg-editor-input" name="content"></textarea>
+</div>
+</div>
+</script>
+
+
+
+
+
+
+
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":1379945208000,"now":1389035003000,"abtest_mask":"---------0--------------------","user_attr":[1,1,0,"-",1],"user_hash":"f65d5d19e6b9febb98edd2eddf56f058"}</script>
+
+<script type="text/json" class="json-inline" data-name="form_key">"96248643-115267288127020627655332266352090165169765209273"</script>
+<script type="text/json" class="json-inline" data-name="current_user">["\u738b\u6615\u715c","wang-xin-yu-30","http:\/\/p4.zhimg.com\/16\/a4\/16a48b4fd_s.jpg","f65d5d19e6b9febb98edd2eddf56f058","",1,1,1,"lxy402290553@126.com","http:\/\/www.126.com",1,true]</script>
+
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",true,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="current_question">[530299,0,0,null,0,0,0,0,false,true,true,20874441,0,[],[],"normal"]</script>
+<script type="text/json" class="json-inline" data-name="current_question_owner">false</script>
+<script type="text/json" class="json-inline" data-name="draft">["555",1389034383]</script>
+<script type="text/json" class="json-inline" data-name="my_answer">{}</script>
+<script type="text/json" class="json-inline" data-name="need_first_answer_guide">true</script>
+<script type="text/json" class="json-inline" data-name="redirect_to">""</script>
+
+
+
+<script src="http://static.zhihu.com/static/ver/be1f4e09e99650d8ff09ac81943bc61f.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/be0d7f247258e9dbddb4731546fbacc3.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/ab998c52112dbe697fd13fffeb127aa4.sign.js"></script>
+
+
+<script src="http://static.zhihu.com/static/ver/67b4ffcea999c4c59c626cd5a86f0a78.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/c4e669f4e4554dd9e8e49acd63063954.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="a55791e986664f1c9b03b7184f2b2775">
+ZH.entrySQ();
+
+</script>
+
+<input type="hidden" name="_xsrf" value="f6b9bf29656b4587bf0255b21a218910"/>
+</body>
+</html>
