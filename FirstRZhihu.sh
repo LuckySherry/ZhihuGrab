@@ -8,7 +8,10 @@ UserName="xwangau"
 for(( i=1;i<=9;i=i+1))
 do
 	arg=$i*3-3
-	ssh $UserName@csl2wk0$i	'cd /csproject/wil1/wangxinyu/WeiboSoc;sh Nohup1.sh'
+	ssh $UserName@csl2wk0$i	'cd /csproject/wil1/zhihuDir;sh Nohup1.sh'
+	
+#	TODO: Change the directory - zhihuDir
+	
 #	bash -c "nohup java -jar -Xmx800m QuoraGrab.jar expr `echo $HOST | cut -c8` \* 3 - 3 > & &";
 #	bash -c "nohup java -jar -Xmx800m QuoraGrab.jar $arg+1 > outputDir/`echo $HOST | cut -c8`.log 2>&1 &";
 #	bash -c "nohup java -jar -Xmx800m QuoraGrab.jar $arg+2 > outputDir/`echo $HOST | cut -c8`.log 2>&1 &";'
@@ -17,7 +20,10 @@ done
 for(( i=10;i<=41;i=i+1 ))
 do
 	arg=$i*3-3
-	ssh $UserName@csl2wk$i 'cd /csproject/wil1/wangxinyu/WeiboSoc;sh Nohup1.sh'
+	ssh $UserName@csl2wk$i 'cd /csproject/wil1/ZhihuDir;sh Nohup1.sh'
+	
+#	TODO: Change the directory - zhihuDir
+	
 #	bash -c "num=${num:6}";
 #	bash -c "echo $num";
 #	bash -c "nohup java -jar -Xmx800m QuoraGrab.jar $arg > outputDir/;'$arg'.log 2>&1 &";
@@ -26,4 +32,7 @@ do
 	echo -e "csl2wk"$i" built up"
 done
 
-echo -e "My work is done, please trace the *.log file in \n/csproject/wil1/wangxinyu/WeiboSoc/outputDir/"
+echo -e "My work is done, please trace the *.log file in \n/csproject/wil1/zhihuDir/outputDir/"
+	
+#	TODO: Change the directory - zhihuDir and mkdir the /outputDir
+	

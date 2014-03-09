@@ -8,12 +8,15 @@ else
 fi
 	base=`echo $HOST | cut -c$pos`
 	echo $base
-offset=229600
+offset=0
 arg1=`expr $base \* 3 - 3`
 arg2=`expr $base \* 3 - 2`
 arg3=`expr $base \* 3 - 1`
 arg4=`expr $offset + $base \* 800 - 1`
 arg5=`expr $offset + $base \* 800 - 800`
+
+#TODO: Change the arg4 and arg5, 800 means grab 800 users on each machine everydar
+
 #nohup java -jar -Xmx800m Crawler.jar `expr \`echo $HOST | cut -c8\` \* 3 - 3` > outputDir/`expr \`echo $HOST | cut -c8\` \* 3 - 3`.log 2>&1 &
 #nohup java -jar -Xmx800m Crawler.jar `expr \`echo $HOST | cut -c8\` \* 3 - 3` > outputDir/`expr \`echo $HOST | cut -c8\` \* 3 - 2`.log 2>&1 &
 #nohup java -jar -Xmx800m Crawler.jar `expr \`echo $HOST | cut -c8\` \* 3 - 3` > outputDir/`expr \`echo $HOST | cut -c8\` \* 3 - 1`.log 2>&1 &

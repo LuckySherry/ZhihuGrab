@@ -112,13 +112,16 @@ public class UserFollowers {
     		Pattern pa = Pattern.compile("[^0-9 ]");
     		Matcher m = pa.matcher(s);
     		int numOfFollower = Integer.valueOf(m.replaceAll("").trim());
-
+    		
+    		pw.print("\t"+numOfFollower);
     		if(numOfFollower>1000){
-    			pw.println("\t"+userName+"out");
+    			pw.println("\t"+userName+".out");
     			userPw = new PrintWriter(new File(userName.substring(8)+".out"));
     		}
-    		if(numOfFollower==0){
+    		if(numOfFollower==0||numOfFollower>50000){
     			pw.println();
+    			if(userPw!=null)
+	    			userPw.close();
     			continue;
     		}
     		String params = hashElement.getAttribute("data-init");
