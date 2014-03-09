@@ -1,0 +1,3 @@
+Class-Path: . ZhihuGrab_lib/htmlunit-2.13-OSGi.jar ZhihuGrab_lib/jsoup-1.7.2.jar ZhihuGrab_lib/org.json.jar
+Main-Class: zhihu.UserFollowers
+

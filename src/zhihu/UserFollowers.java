@@ -91,7 +91,7 @@ public class UserFollowers {
         
     	for (int lineNum = startLine; lineNum <= endLine; lineNum++) {
         	line = read.nextLine();
-        	String userName = line.substring(0,line.indexOf("\t"));
+        	String userName = line;//.substring(0,line.indexOf("\t"));
         	PrintWriter userPw = null;// = new PrintWriter(new File(userName+"out"));
         	
         	HtmlAddress = "http://www.zhihu.com"+userName+"/followers";
@@ -107,12 +107,19 @@ public class UserFollowers {
     		HtmlElement xsrfElement = homePage.getElementByName("_xsrf");
     		HtmlElement numFollow = homePage.getFirstByXPath("//span[@class='zm-profile-section-name']");
     		String s = numFollow.asText();
+    		//s = s.substring(s.indexOf(" ")+1);
+    		//s = s.substring(s.indexOf(" ")+1);
+    		//s = s.substring(0, s.indexOf(" "));
     		
     		System.out.println(numFollow.asText());
     		Pattern pa = Pattern.compile("[^0-9 ]");
     		Matcher m = pa.matcher(s);
-    		int numOfFollower = Integer.valueOf(m.replaceAll("").trim());
-    		
+    		s = m.replaceAll("").trim();
+    		if(s.contains(" "))
+    			s = s.substring(s.indexOf(" ")+1).trim();
+    		int numOfFollower = Integer.valueOf(s);
+    		//int numOfFollower = Integer.valueOf(s);
+    		System.out.println(numOfFollower);
     		pw.print("\t"+numOfFollower);
     		if(numOfFollower>1000){
     			pw.println("\t"+userName+".out");
@@ -140,7 +147,7 @@ public class UserFollowers {
     		
     		for(;offset<numOfFollower;offset+=20){
     			p.put("offset", offset);
-    			System.out.println(p.toString());
+    			//System.out.println(p.toString());
     			
     			//System.out.println(hash_id);
     			//System.out.println(order_by);
@@ -170,7 +177,7 @@ public class UserFollowers {
     				org.jsoup.select.Elements details = doc.getElementsByClass("details").first().children();
     				boolean pickUpUser = true;
     				for(org.jsoup.nodes.Element detail : details){
-    					System.out.println(detail.text());
+    					//System.out.println(detail.text());
     					if(detail.text().startsWith("0")){
     						pickUpUser = false;
     						break;

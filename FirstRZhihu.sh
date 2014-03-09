@@ -8,7 +8,7 @@ UserName="xwangau"
 for(( i=1;i<=9;i=i+1))
 do
 	arg=$i*3-3
-	ssh $UserName@csl2wk0$i	'cd /csproject/wil1/zhihuDir;sh Nohup1.sh'
+	ssh $UserName@csl2wk0$i	'cd /csproject/wil1/wangxinyu/Zhihu;sh Nohup1.sh'
 	
 #	TODO: Change the directory - zhihuDir
 	
@@ -20,7 +20,7 @@ done
 for(( i=10;i<=41;i=i+1 ))
 do
 	arg=$i*3-3
-	ssh $UserName@csl2wk$i 'cd /csproject/wil1/ZhihuDir;sh Nohup1.sh'
+	ssh $UserName@csl2wk$i 'cd /csproject/wil1/wangxinyu/Zhihu;sh Nohup1.sh'
 	
 #	TODO: Change the directory - zhihuDir
 	
@@ -32,7 +32,7 @@ do
 	echo -e "csl2wk"$i" built up"
 done
 
-echo -e "My work is done, please trace the *.log file in \n/csproject/wil1/zhihuDir/outputDir/"
+echo -e "My work is done, please trace the *.log file in \n/csproject/wil1/wangxinyu/Zhihu/outputDir/"
 	
 #	TODO: Change the directory - zhihuDir and mkdir the /outputDir
 	
