@@ -36,6 +36,7 @@ public class UserFollowers {
 	 * @throws IOException 
 	 * @throws JSONException 
 	 */
+	//167000,226000
 	public static void main(String[] args) throws IOException, JSONException {
 		if(args.length<3){
 			System.out.println("Usage: UserFollowers [input file] [StartLine] [EndLine]");
@@ -168,11 +169,17 @@ public class UserFollowers {
     			}
     			
     			JSONArray msg = ((new JSONObject(page.getWebResponse().getContentAsString()).getJSONArray("msg")));
+    			if(msg==null){
+    				offset-=20;
+    				continue;
+    			}
     			for(int i = 0;i<msg.length();i++){
     				//System.out.println(msg.get(i).toString());
     				org.jsoup.nodes.Document doc = Jsoup.parse(msg.get(i).toString());
     				org.jsoup.nodes.Element title = doc.getElementsByClass("zm-list-content-title").first();
-    				System.out.println(title.child(0).attr("href"));
+    				if(title.children().size()==0)
+    					continue;
+    				//System.out.println(title.child(0).attr("href"));
 
     				org.jsoup.select.Elements details = doc.getElementsByClass("details").first().children();
     				boolean pickUpUser = true;
