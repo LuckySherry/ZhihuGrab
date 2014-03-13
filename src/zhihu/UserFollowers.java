@@ -48,7 +48,7 @@ public class UserFollowers {
         String fileName = args[0];
 		
 		final WebClient client1 = new WebClient(BrowserVersion.FIREFOX_3_6);
-		String HtmlAddress = "http://www.zhihu.com/log/questions";
+		String HtmlAddress = "http://www.zhihu.com";
 		String loginPage = "http://www.zhihu.com/#signin";
 		String QDir = "QHttp/";
 		String UDir = "UHttp/";
@@ -126,7 +126,7 @@ public class UserFollowers {
     			pw.println("\t"+userName+".out");
     			userPw = new PrintWriter(new File(userName.substring(8)+".out"));
     		}
-    		if(numOfFollower==0||numOfFollower>50000){
+    		if(numOfFollower==0){//||numOfFollower>50000){
     			pw.println();
     			if(userPw!=null)
 	    			userPw.close();
@@ -177,10 +177,11 @@ public class UserFollowers {
     				//System.out.println(msg.get(i).toString());
     				org.jsoup.nodes.Document doc = Jsoup.parse(msg.get(i).toString());
     				org.jsoup.nodes.Element title = doc.getElementsByClass("zm-list-content-title").first();
-    				if(title.children().size()==0)
+    				if(title==null||title.children()==null||title.children().size()==0)
     					continue;
     				//System.out.println(title.child(0).attr("href"));
-
+    				if(doc.getElementsByClass("details").first() == null)
+    					continue;
     				org.jsoup.select.Elements details = doc.getElementsByClass("details").first().children();
     				boolean pickUpUser = true;
     				for(org.jsoup.nodes.Element detail : details){
